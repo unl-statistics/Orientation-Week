@@ -1,5 +1,7 @@
-New TA and Grad Student Orientation Week
-================
+---
+title: "New TA and Grad Student Orientation Week"
+format: markdown_github
+---
 
 # Overview
 
@@ -16,9 +18,12 @@ New TA and Grad Student Orientation Week
 | Stat 218 Activities                                                         | Friday    | 10 am - 12:30 pm | Hardin 49                         | New TAs + Stat 218 TAs |
 | Stat 218 Microteaching                                                      | Friday    | 2 - 3:30 pm      | Hardin 49                         | New TAs                |
 
-Schedule of Activities
+: Schedule of Activities
 
-> **Additional Resources**
->
-> [UNL Grad Studies
-> Orientation](https://www.unl.edu/gradstudies/welcome)
+::: callout-note
+
+# Additional Resources
+
+[UNL Grad Studies Orientation](https://www.unl.edu/gradstudies/welcome)
+
+:::
