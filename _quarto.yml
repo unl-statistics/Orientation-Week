@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "New TA and Grad Student Orientation Week"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Introduction
+        href: 01-introduction.qmd
+      - text: Course Planning
+        href: 02-course-planning.qmd
+      - text: Assessment
+        href: 03-assessment.qmd
+      - text: Creating a Syllabus
+        href: 04-syllabus.qmd
+      - text: University Policies
+        href: 05-policies.qmd
+      - text: Activities
+        href: 06-activities.qmd
+      - text: Microteaching
+        href: 07-microteaching.qmd
+
+format:
+  html:
+    theme: simplex
+    css: [styles.css, unl.scss]
+    toc: true
+
+
+

@@ -9,10 +9,3 @@ format: markdown_github
 ```
 
 
-::: callout-note
-
-# Additional Resources
-
-[UNL Grad Studies Orientation](https://www.unl.edu/gradstudies/welcome)
-
-:::

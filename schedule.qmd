@@ -1,5 +1,5 @@
 | Event                                                                       | Day       | Time             | Location                          | Who?                   |
-|------------------|----------------|------------|---------------------|---------------|
+|-----------------------------------------------------------------------------|-----------|------------------|-----------------------------------|------------------------|
 | [Stat 218 Introduction](01-introduction.html)                               | Monday    | 12-2 pm          | Hardin Hall Large Conference Room | New TAs                |
 | Department Meeting                                                          | Monday    | 3-4:30 pm        | Hardin Hall Auditorium            | **Everyone**           |
 | [UNL TA Orientation](https://events.unl.edu/gradstudies/2022/08/16/165120/) | Tuesday   | 8-1 pm           | Nebraska Union (City Campus)      | New TAs                |
