@@ -4,3 +4,14 @@ format: html
 ---
 
 # Schedule
+
+| Activity      | Time        |
+|---------------|-------------|
+| Microteaching | 2:00 - 3:15 |
+| Q&A           | 3:15 - 3:30 |
+
+Assignment for Stat 892 (due first class period):
+
+Write a question to assess students' understanding of your microteaching topic. The question should NOT emphasize calculation.
+
+Begin reading the [GAISE recommendations](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf).

@@ -4,3 +4,29 @@ format: html
 ---
 
 # Schedule
+
+| Activity                  | Time          |
+|---------------------------|---------------|
+| Activities in Stat 218    | 10:00 - 11:15 |
+| Break                     | 11:15 - 11:30 |
+| Meet with your mentor     | 11:30 - 12:30 |
+| Break (lunch on your own) | 12:30 - 2:00  |
+
+: Activities Session Schedule
+
+# Activities in Stat 218
+
+-   Before you carry out an activity
+
+    -   What is its purpose?
+
+    -   What should students get out of it?
+
+-   Demo: Babies
+
+-   Tips from returning TAs on activities/labs
+
+-   Active learning:\
+    Active learning means active thinking; it isn't necessarily "hands-on"
+
+-   Prop check-out sheet
