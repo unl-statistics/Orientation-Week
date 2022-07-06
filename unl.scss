@@ -3,3 +3,13 @@ $primary: #D00000;
 $secondary: #FEFDFA;
 $navbar-dark-color: rgba($primary, .75) !important;
 $navbar-dark-hover-color: $primary !important;
+$theme-colors: (
+  "primary": #D00000,
+  "secondary": #FEFDFA,
+  "success": #008A2C,
+  "info": #249ab5,
+  "warning": #D4440B,
+  "danger": #a5228d,
+  "dark": #001226,
+  "link": #249ab5
+);

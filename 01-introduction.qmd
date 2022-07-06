@@ -9,7 +9,7 @@ format: html
 |-----------------------------------------|--------------|
 | Lunch                                   | 12-12:45     |
 | [Describe Stat 218](#describe-stat-218) | 12:45 - 1:30 |
-| Course Philosophy                       | 1:30 - 2:00  |
+| [Course Philosophy](#course-philosophy) | 1:30 - 2:00  |
 
 : Schedule for 218 Introduction Session
 
@@ -48,3 +48,20 @@ format: html
 -   Those not teaching/working with Stat 218
 
 -   Stat 892
+
+# Course Philosophy {#course-philosophy}
+
+-   Statistical Literacy vs. Statistical Arithmetic
+
+-   Stat 218 as an ACE course: supporting areas of writing and critical thinking
+
+-   Philosophy for other courses
+
+# Assignments
+
+-   Read ["Data Visualization: Bringing Data to Live in an Introductory Statistics Course"](https://www.tandfonline.com/doi/pdf/10.1080/10691898.2020.1796399) (by Wednesday)
+
+-   Microteaching Assignment Topic
+
+-   Read [GAISE College Report](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) (for 892 Week 1)\
+    Note: You only have to read the main report, though you can skim any appendices you think are interesting.

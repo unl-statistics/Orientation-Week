@@ -1,0 +1,17 @@
+---
+title: "New TA and Grad Student Orientation Week"
+---
+
+# Schedule
+
+```{r, child = 'schedule.qmd'}
+```
+
+
+::: callout-note
+
+# Additional Resources
+
+[UNL Grad Studies Orientation](https://www.unl.edu/gradstudies/welcome)
+
+:::
