@@ -1,0 +1,77 @@
+---
+title: "Introduction to Stat 218"
+format: 
+  revealjs:
+    navigation-mode: vertical
+    title-slide-attributes:
+      data-background-image: https://github.com/srvanderplas/UNL-extension-APL/blob/main/image/SimulationTheoryCartoon.png?raw=true
+      data-background-size: 90%
+      data-background-position: bottom 10px center
+---
+
+
+# Organization
+
+## TA Expectations
+
+### Mentor TAs will
+
+
+
+
+## TA Expectations
+### New TAs will
+
+
+## TA Contract
+
+- By the end of week 1, you and your mentor TA should have a **written** contract covering:
+
+  - Homework turnaround time
+  - Office hours
+  - Meeting times
+  - Additional duties (proofreading quizzes/exams? assisting with project grading?)
+
+## Lesson Plans
+
+- Put together over the course of the fall semester
+
+- Collected in a portfolio so that you're ready to teach in the Spring
+    - You may be a lab instructor, grader, or have your own section in the spring.
+
+- By midterms: 1st 3 weeks of class ready to go
+
+- By end of semester: rough draft for the full semester
+
+## Teaching Journal
+
+- Stat 892 will have journaling assignments occasionally
+
+- Keep track of what worked (and didn't) in your mentor TA's class
+    - what will you repeat/steal?
+    - what will you change?
+    
+
+## Teaching Journal
+
+Take 5 minutes to write a bit about what you're anxious about, excited about, and what questions you want answered during this workshop.
+
+## Stat 892
+
+- 1h/week check-in class designed to prepare you for teaching Stat 218
+
+- For week 1, read the [GAISE report](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf).
+
+
+
+# Stat 218 Course Philosophy
+
+## Statistical Literacy vs. Statistical Arithmetic
+
+## ACE Course
+
+- Explanation of ACE courses
+
+- Supporting areas: writing, critical thinking
+
+## Other Courses
