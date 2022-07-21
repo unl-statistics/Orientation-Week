@@ -20,7 +20,7 @@ format: html
 
 -   Review each person's syllabus in your group
 
--   Discussion: \
+-   Discussion:\
     How peer review can be used in Stat 218 and other courses
 
 -   [CASNR syllabus policy](https://unlcms.unl.edu/ianr/casnr-2/casnr-syllabus-requirements) and group discussion
