@@ -60,7 +60,7 @@
     "href": "schedule.html",
     "title": "New TA and Grad Student Orientation Week",
     "section": "",
-    "text": "Schedule of Activities\n\n\nEvent\nDay\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Introduction\nMonday\n12-2 pm\nHardin Hall Large Conference Room\nNew TAs\n\n\nDepartment Meeting\nMonday\n3-4:30 pm\nHardin Hall Auditorium\nEveryone\n\n\nUNL TA Orientation\nTuesday\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\nStat 218 Course Planning\nWednesday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nWiley Plus Training\nWednesday\n11:30 am - 2 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\nWednesday\n2-3:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Syllabus\nThursday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nUniversity Policies\nThursday\n12:30 - 3 pm\nHardin 49\nALL TAs\n\n\nStat 218 Activities\nFriday\n10 am - 12:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Microteaching\nFriday\n2 - 3:30 pm\nHardin 49\nNew TAs"
+    "text": "Schedule of Activities\n\n\nEvent\nDay\nTime\nLocation\nWho?\n\n\n\n\nNew Graduate Student Orientation\nMonday\n9-11 am\nHardin 49\nAll new statistics graduate students\n\n\nStat 218 Introduction\nMonday\n12-2 pm\nHardin Hall Large Conference Room\nNew TAs\n\n\nDepartment Meeting\nMonday\n3-4:30 pm\nHardin Hall Auditorium\nEveryone\n\n\nUNL TA Orientation\nTuesday\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\nStat 218 Course Planning\nWednesday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nWiley Plus Training\nWednesday\n11:30 am - 2 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\nWednesday\n2-3:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Syllabus\nThursday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\nThursday\n11-12:30 am\n\n\n\n\nUniversity Policies\nThursday\n12:30 - 3 pm\nHardin 49\nALL TAs\n\n\nStat 218 Activities\nFriday\n10 am - 12:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\nFriday\n12:30 - 2 pm\n\n\n\n\nStat 218 Microteaching\nFriday\n2 - 3:30 pm\nHardin 49\nNew TAs\n\n\nStudent Welcome Dinner\n(RSVP by August 8)\nFriday\n6pm\nLazlo’s Restaurant - Haymarket location\nFull Department"
   },
   {
     "objectID": "06-activities.html",
@@ -145,5 +145,61 @@
     "title": "Introduction to Stat 218",
     "section": "Other Courses",
     "text": "Other Courses"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#what-concepts-did-you-select",
+    "href": "02-course-planning-slides.html#what-concepts-did-you-select",
+    "title": "218 Course Planning",
+    "section": "What concepts did you select?",
+    "text": "What concepts did you select?"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#official-topic-list",
+    "href": "02-course-planning-slides.html#official-topic-list",
+    "title": "218 Course Planning",
+    "section": "Official Topic List",
+    "text": "Official Topic List"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-activity",
+    "href": "02-course-planning-slides.html#writing-activity",
+    "title": "218 Course Planning",
+    "section": "Writing Activity",
+    "text": "Writing Activity\nWhat were your initial thoughts about the data vis article? Write for a few minutes about what you took away from this article."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-and-statistics",
+    "href": "02-course-planning-slides.html#writing-and-statistics",
+    "title": "218 Course Planning",
+    "section": "Writing and Statistics",
+    "text": "Writing and Statistics\nAs you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it. The same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-activity-1",
+    "href": "02-course-planning-slides.html#writing-activity-1",
+    "title": "218 Course Planning",
+    "section": "Writing Activity",
+    "text": "Writing Activity\nWrite for a few minutes about what kinds of alternative assessments you think work well in Stat 218. Maybe it’s an assessment you experienced as a student?"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#student-expectations",
+    "href": "02-course-planning-slides.html#student-expectations",
+    "title": "218 Course Planning",
+    "section": "Student Expectations",
+    "text": "Student Expectations\nStudents often come into Stat 218 assuming that it will be a “math” class and are sometimes angry/confused to find that it is not. Writing (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-activity-2",
+    "href": "02-course-planning-slides.html#writing-activity-2",
+    "title": "218 Course Planning",
+    "section": "Writing Activity",
+    "text": "Writing Activity\nWrite for a few minutes about how you think the Stat 218 class can be structured to make clear to the students that statistics is not math."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#low-stakes-writing",
+    "href": "02-course-planning-slides.html#low-stakes-writing",
+    "title": "218 Course Planning",
+    "section": "Low-Stakes Writing",
+    "text": "Low-Stakes Writing\nEach exercise had different goals!\n\nActivity 1: Writing to probe a subject - to get you to think about the article\nActivity 2/3: Tools to gauge understanding and guide future discussion\n\nHow can you incorporate writing into other things (assessments, activities, important concepts) we’ll discuss this week?"
   }
 ]
