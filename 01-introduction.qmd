@@ -61,7 +61,7 @@ format: html
 
 -   Read ["Data Visualization: Bringing Data to Live in an Introductory Statistics Course"](https://www.tandfonline.com/doi/pdf/10.1080/10691898.2020.1796399) (by Wednesday)
 
--   Microteaching Assignment Topic
+-   Microteaching Assignment Topic ([Topic list](01-micro-teaching.qmd))
 
 -   Read [GAISE College Report](https://www.amstat.org/docs/default-source/amstat-documents/gaisecollege_full.pdf) (for 892 Week 1)\
     Note: You only have to read the main report, though you can skim any appendices you think are interesting.

@@ -1,0 +1,32 @@
+---
+# title: "Micro-teaching topics"
+format: pdf
+fontsize: "24pt"
+pagestyle: "empty"
+---
+
+Statistical vs. Practical Significance
+
+Standard deviation vs. Standard error
+
+Statistical vs. Everyday Random
+
+Statistic vs. parameter
+
+Population vs. sample
+
+Hypothesis test vs. confidence interval
+
+Sampling vs. population distribution
+
+One-sample vs. two-sample inference
+
+Independent vs paired samples
+
+Association vs. causation
+
+Random sampling vs. random assignment
+
+Type I vs. Type II error
+
+P-value vs. standardized statistic
