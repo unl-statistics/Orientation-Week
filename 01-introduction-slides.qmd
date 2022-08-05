@@ -70,7 +70,17 @@ Take 5 minutes to write a bit about what you're anxious about, excited about, an
 
 ## ACE Course
 
-- Explanation of ACE courses
+- Explanation of ACE courses    
+    [Link](https://ace.unl.edu/courses)
+  
+  > Develop intellectual and practical skills, including proficiency in written, oral, and visual communication; inquiry techniques; critical and creative thinking; quantitative applications; information assessment; teamwork; and problem-solving.
+
+## ACE Course
+
+- Explanation of ACE courses   
+
+  > **ACE 3**    
+Use mathematical, computational, statistical, logical, or other formal reasoning to solve problems, draw inferences, justify conclusions,  and determine reasonableness.
 
 - Supporting areas: writing, critical thinking
 

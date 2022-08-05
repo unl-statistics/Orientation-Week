@@ -21,6 +21,8 @@ format:
 
 # [Data Vis Article](https://www.tandfonline.com/doi/pdf/10.1080/10691898.2020.1796399)
 
+![](files/Data-Vis-Article-Screenshot.png){fig-alt="Screenshot of Data Visualization: Bringing Data to Life in an Introductory Statistics Course article in Journal of Statistics Education."}
+
 ## Writing Activity
 
 What were your initial thoughts about the data vis article? Write for a few minutes about what you took away from this article.
@@ -28,7 +30,9 @@ What were your initial thoughts about the data vis article? Write for a few minu
 
 ## Writing and Statistics
 
- As you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it. The same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts.
+As you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it. 
+ 
+The same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts.
  
 ## Writing Activity
 
@@ -36,7 +40,9 @@ Write for a few minutes about what kinds of alternative assessments you think wo
 
 ## Student Expectations
 
-Students often come into Stat 218 assuming that it will be a "math" class and are sometimes angry/confused to find that it is not. Writing (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math.
+Students often come into Stat 218 assuming that it will be a "math" class and are sometimes angry/confused to find that it is not. 
+
+Writing (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math.
 
 ## Writing Activity
 

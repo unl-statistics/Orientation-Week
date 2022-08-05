@@ -81,7 +81,7 @@
     "href": "01-introduction-slides.html#ace-course",
     "title": "Introduction to Stat 218",
     "section": "ACE Course",
-    "text": "ACE Course\n\nExplanation of ACE courses\nSupporting areas: writing, critical thinking"
+    "text": "ACE Course\n\nExplanation of ACE courses\nLink\n\nDevelop intellectual and practical skills, including proficiency in written, oral, and visual communication; inquiry techniques; critical and creative thinking; quantitative applications; information assessment; teamwork; and problem-solving."
   },
   {
     "objectID": "01-introduction-slides.html#other-courses",
@@ -116,7 +116,7 @@
     "href": "02-course-planning-slides.html#writing-and-statistics",
     "title": "218 Course Planning",
     "section": "Writing and Statistics",
-    "text": "Writing and Statistics\nAs you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it. The same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts."
+    "text": "Writing and Statistics\nAs you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it.\nThe same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts."
   },
   {
     "objectID": "02-course-planning-slides.html#writing-activity-1",
@@ -130,7 +130,7 @@
     "href": "02-course-planning-slides.html#student-expectations",
     "title": "218 Course Planning",
     "section": "Student Expectations",
-    "text": "Student Expectations\nStudents often come into Stat 218 assuming that it will be a “math” class and are sometimes angry/confused to find that it is not. Writing (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math."
+    "text": "Student Expectations\nStudents often come into Stat 218 assuming that it will be a “math” class and are sometimes angry/confused to find that it is not.\nWriting (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math."
   },
   {
     "objectID": "02-course-planning-slides.html#writing-activity-2",
@@ -194,5 +194,12 @@
     "title": "New TA and Grad Student Orientation Week",
     "section": "",
     "text": "Other Information\n\n\n\n\n\n\nTeaching and Orientation (UNL-wide)\n\n\n\n\nUNL Grad Studies Orientation (Canvas)\nUNL Grad Studies Institute for International Teaching Assistants\nThis program takes place 2 weeks before orientation week and is extremely valuable for both domestic and international students. It is required for international students (unless you have a Masters degree from an English-language university).\n\n\n\n\n\n\n\n\n\nInformation for Incoming Students\n\n\n\nOur department’s Graduate Student Association (GSA) maintains an informal handbook for new graduate students that includes information such as\n\nhow to register for classes\nhow to get UNL ID card and bus pas\nhow to connect to campus WiFi\nhousing resources\nplaces to go in Lincoln\n\nand much, much more. Check it out!"
+  },
+  {
+    "objectID": "01-introduction-slides.html#ace-course-1",
+    "href": "01-introduction-slides.html#ace-course-1",
+    "title": "Introduction to Stat 218",
+    "section": "ACE Course",
+    "text": "ACE Course\n\nExplanation of ACE courses\n\nACE 3\nUse mathematical, computational, statistical, logical, or other formal reasoning to solve problems, draw inferences, justify conclusions, and determine reasonableness.\n\nSupporting areas: writing, critical thinking"
   }
 ]
