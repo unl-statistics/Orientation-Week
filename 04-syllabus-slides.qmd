@@ -81,3 +81,11 @@ Consult UNL emergency planning site for current emergency procedures: https://em
 - Graded assignments which will be used.
 
 Please double check current ACE requirements at https://ace.unl.edu as they do change from time to time.
+
+
+# Lessons Learned from Last Year {background-image="files/calendar.jpg"}
+
+## Things that went well {background-image="files/calendar.jpg"}
+## Things that could be improved {background-image="files/calendar.jpg"}
+
+## Questions or Concerns about Fall? {background-color="black" background-image="files/Fall_leaves.jpeg"}

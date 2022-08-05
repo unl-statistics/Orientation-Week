@@ -11,13 +11,152 @@ format:
 
 # Important Concepts
 
+[Concept List](files/Important Concepts.pdf)
+
+Star concepts you think are big ideas
+
+Circle things you think should be taught in 218
+
+Cross out things you think don't belong in 218
+
 # Discussion
 
 ## What concepts did you select?
 
 
-## Official Topic List
+## Official Topic List {.smaller}
 
+### Big Picture Goals
+[12.] Random sampling allows results of surveys and experiments to be extended to the population from which the sample was taken 
+
+[13.] Variability is natural, predictable, and quantifiable 
+
+[19.] How to interpret numerical summaries and graphical displays of data - both to answer questions and to check conditions (to use statistical procedures correctly)
+
+[29.] Believe and understand why association is not causation 
+
+[30.] Believe and understand why random assignment in comparative experiments allows cause-and-effect conclusions to be drawn 
+
+[34.] The concept of a sampling distribution and how it applies to making statistical inferences based on samples of data (including the idea of standard error)
+
+[55.] The concept of statistical significance, including significance levels and p-values  
+
+[57.] How to interpret statistical results in context 
+
+## Official Topic List {.smaller}
+
+### Big Picture Goals Cont'd
+
+[58.] How to critique news stories and journal articles that include statistical information, including identifying what's missing in the presentation and the flaws in the studies or methods used to generate the information 
+
+[61.] How to determine the population to which the results of statistical inference can be extended, if any
+
+[62.] Students should believe and understand why data beat anecdotes
+
+[80.] Understand how simulation may be used to determine strength of evidence
+
+[89.] Translating a research question/scenario into a null model
+
+## Official Topic List {.smaller}
+
+### In achieving these goals, you should cover:
+
+[1.] Quantitative versus categorical variables
+
+[5.] How to interpret histograms
+
+[7.] Skewed and symmetric distributions
+
+[8.] Measures of center (mean and median)
+
+[9.] Sampling strategies:  at least that not everything is a SRS
+
+[14.] How to calculate variance and standard deviation (with caveats)
+
+[15.] Characteristics of the normal distribution? Depends on how your class is structured
+
+[23.] Distinguish between explanatory and response variables
+
+[25.] Use scatterplots to identify patterns and outliers
+
+[26.] Know what a line of best fit represents and how to use it to make predictions
+
+## Official Topic List {.smaller}
+
+### In achieving these goals, you should cover:
+
+[31.] Describe the sampling distribution of a statistic and define the standard error of a statistic
+
+[35.] How to calculate (obtain?) confidence intervals for the population proportion, $p$
+
+[36.] How to calculate (obtain?) confidence intervals for the population mean, $\mu$
+
+[37.] Interpret the result of a confidence interval in the context of the problem
+
+[39.] Elementary probability rules
+
+[40.] Probability rules for complements (necessary only if using normal distribution)
+
+[42.] Addition rule (necessary only if using normal distribution)
+
+[47.] Describe how changing the sample size and/or the confidence level will affect the width of the confidence interval
+
+[48.] Given a study objective, choose appropriate null and alternative hypotheses, including determining whether the alternative should be one-sided or two-sided
+
+## Official Topic List {.smaller}
+
+### In achieving these goals, you should cover:
+
+[49.] Given a study and p-value, explain in context that p-value is a probability of getting a sample statistic as extreme or more extreme than what was seen in the sample given that the null hypothesis is true
+
+[51.] Given a study, interpret the results of a test of significance in context
+
+[52.] Given a study objective, significance level ($\alpha$) and summary statistics, understand the steps involved in conducting a formal test of significance on a population mean (or a population proportion).
+
+[59.] How to communicate the results of a statistical analysis 
+
+[60.] How to appropriately use statistical inference to answer research questions 
+[63.] Understand the difference between matched-pairs and two-sample data (if time allows)
+
+[69.] Understand the importance of controlling for sources of extraneous variation in studies
+
+[72.] The importance of examining graphs in describing a data set
+
+## Official Topic List {.smaller}
+
+### In achieving these goals, you should cover:
+
+[76.] Describing relations in a two-way table
+
+[81.] Understand what a null model represents
+
+[82.] Assumptions necessary for inference via simulation versus assumptions necessary for inference via traditional methods
+
+[83.] Determining which analysis method is appropriate for a given scenario
+
+[87.] Understand the relationship between hypothesis testing and confidence intervals
+
+[88.] Understand that not all outcomes of a random experiment are equally likely
+
+[90.] Representing null models in both words and symbols
+
+## You Should Not Cover {.smaller}
+
+[15.] What happens to mean and variance when the unit of measurement is changed
+
+[17.] Normal quantile plots
+
+[20.] How to calculate the correlation (by  hand)
+
+[21.] How to calculate the estimated slope and intercept for lines of best fit (by hand)
+
+[45.] Bayes' Theorem
+
+[68.] Understand Simpson's paradox
+
+[78.] The $F$ distribution
+
+[86.] Understand that $n>30$ ensures the Central Limit Theorem holds
 
 # [Data Vis Article](https://www.tandfonline.com/doi/pdf/10.1080/10691898.2020.1796399)
 

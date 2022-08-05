@@ -11,13 +11,52 @@ format:
 
 # Homework (and alternatives to homework)
 
+## Discussion - Assessment in 218
+
+## Grading
+
+- You don't have to grade 100% of every assignment
+
+- Explorations: Pick 2 important ?s to grade, everything else is completion
+
+
 
 # How Writing Fits In
+
+- Writing To Learn    
+Writing forces students to think in a way that working problems doesn't
+
+- If you understand something well, you can explain it
+
+- (Some classes) Writing "why" for each step of the process
+    - May not work as well in 218
 
 # Input from Experienced TAs
 
 # Grading Practice
 
-## [Stat 218 Exam Question](files/Grading-practice.pdf)
+## What is important in each question? How many points?
 
-![](files/1328_001.png){fig-alt="A question from a 218 test to grade."}
+[Blank Question](files/Workshop Grading 2015.pdf)
+
+
+## What is important in each question? How many points?
+
+![](files/grading-markup-points-1.png)
+
+
+## What is important in each question? How many points?
+
+![](files/grading-markup-points-2.png)
+
+
+## What is important in each question? How many points?
+
+![](files/grading-markup-points-3.png)
+
+
+## What is important in each question? How many points?
+
+![](files/grading-markup-points-4.png)
+
+

@@ -14,6 +14,8 @@ format: html
 
 : Schedule for Syllabus session
 
+[Slides](04-syllabus-slides.qmd)
+
 # Peer Review of Syllabi {#peer-review}
 
 -   Write a quick note on your syllabus - what elements are you most unsure about?
