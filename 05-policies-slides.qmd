@@ -1,0 +1,76 @@
+---
+title: "University Policies"
+format: 
+  revealjs:
+    navigation-mode: vertical
+    title-slide-attributes:
+      data-background-image: https://github.com/srvanderplas/UNL-extension-APL/blob/main/image/SimulationTheoryCartoon.png?raw=true
+      data-background-size: 90%
+      data-background-position: bottom 10px center
+---
+
+# Services for Students with Disabilities (SSD)
+
+## How Students Register for Accommodations
+
+1. Complete the [SSD Application for Services](https://go.unl.edu/ssdapplication)
+2. Provide documentation from healthcare provider
+3. SSD will contact you to schedule an appointment
+
+## How Students Request Test Accommodations {.smaller}
+
+1. Students contact SSD for an updated copy of their plan.
+2. Students make an appointment with each of their instructors and share a copy of their Accommodation Plan.  Students must be present and available to answer questions at this meeting.
+3. Students clarify with their instructor(s) about their exams and where they will be taken. Instructors decide where exams are administered.
+4. For paper exams and quizzes, instructors complete the SSD Instructor Exam Proctor Form (Link has been added to the student accommodation plan.) 
+    - The instructor will identify where the student will take paper exams (at SSD testing center or a location provided by the instructor).  
+    - It is the student's responsibility to discuss scheduling conflicts with their instructor in advance.  
+    - Student exams may need to be scheduled at alternative times so a student does not miss other classes. 
+
+
+
+## How Students Request Test Accommodations {.smaller}
+5. Once the proctor form is completed, a copy will be sent to SSD, the instructor and the student.  If the instructor wants student exams proctored at SSD, the student will report to SSD testing center on the scheduled days and times. 
+6. If exams are online, no additional information is needed by SSD. The instructor extends the time.
+
+## Other Resources
+
+- [Extending Time for Online Exams](https://www.unl.edu/ssd/content/extratime)
+
+- [Creating Accessible Media](https://www.unl.edu/ssd/content/creating-accessible-media)
+
+- [Flexibility with Attendance](https://www.unl.edu/ssd/PDFs/attendance_flexibility.pdf)
+
+- Learn about [Universal Design for Learning](https://canvas.unl.edu/courses/120076) and Accessibility
+
+# [Counseling and Psychological Services](https://caps.unl.edu/) (CAPS)
+
+## Overview
+
+- Crisis care: 402-472-7450 (24/7 help line)
+
+- Individual, couples, alcohol/drug, eating disorder counseling
+
+- Services are free to students (covered by fees)
+
+## Concerns about Students
+
+[Student concern form](https://cm.maxient.com/reportingform.php?UnivofNebraskaSystem&layout_id=103)
+
+
+# Canvas
+
+# Emergency Procedures
+
+[Full site](https://safety.unl.edu/)
+
+# Academic Integrity
+
+## [UNL Policies](https://studentconduct.unl.edu/academic-integrity)
+
+[Full site
+
+## [Department Policies](https://statistics.unl.edu/grade-appeals-and-academic-integrity-policy)
+
+# COVID Policies
+

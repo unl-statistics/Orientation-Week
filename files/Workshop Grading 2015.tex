@@ -1,0 +1,54 @@
+% LaTeX Report Template - using defaults
+\documentclass[12pt]{article}
+\usepackage{amssymb}
+\usepackage{graphicx}
+
+\textheight=9in
+\textwidth=6.5in
+\topmargin=-36pt
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\overfullrule=0pt
+\setlength{\parindent}{0em}
+\setlength{\parskip}{1.5ex}
+\pagestyle{headings}
+\font\tensymbol=cmsy10
+\font\normal=cmr12
+
+% Set the beginning of a LaTeX document
+\begin{document}
+
+\thispagestyle{empty}
+
+\begin{center}
+
+Grading Practice
+
+\end{center}
+
+(adapted from Tintle et al., 5.1.14) A Pew Research study in April and May of 2013 asked single American adults whether they have ever broken up with someone by email, text or online message. The study found that 52 out of 289 sampled females had broken up with someone by digital means, while 55 out of 364 sampled males had broken up with someone by digital means. A statistics student decides to use the Two-Proportions Applet to find a p-value to investigate whether there is an association between gender and breaking up via digital means. Here is the output, based on 1000 simulations (female-male):
+\begin{center}
+	\includegraphics{digital.pdf}
+\end{center}
+\begin{enumerate}
+\item The above graph is a dotplot of 1000 possible values of difference in proportion of American adults who have broken up with someone by digital means between females and males. At what numeric value does this graph center? Explain why this makes sense.
+
+
+\newpage
+
+\item The p-value is computed to be 0.282. Shade the region on the above graph that represents the p-value.
+
+\item Interpret the p-value reported in (b) in the context of the study.
+
+\vspace{40mm}
+
+\item Use the 2SD Method to find a 95\% confidence interval for the parameter of interest.
+
+\vspace{40mm}
+
+\item Interpret the interval reported in (d) in the context of the study.
+
+
+\end{enumerate}
+
+\end{document}

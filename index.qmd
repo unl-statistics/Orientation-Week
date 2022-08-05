@@ -4,8 +4,7 @@ title: "New TA and Grad Student Orientation Week"
 
 # Schedule
 
-```{r}
-#| child = 'schedule2.qmd'
+```{r, child = 'schedule2.qmd'}
 ```
 
 

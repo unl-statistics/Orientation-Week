@@ -8,15 +8,15 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Introduction
+      - text: Intro
         href: 01-introduction.qmd
       - text: Course Planning
         href: 02-course-planning.qmd
       - text: Assessment
         href: 03-assessment.qmd
-      - text: Creating a Syllabus
+      - text: Syllabus
         href: 04-syllabus.qmd
-      - text: University Policies
+      - text: Policies
         href: 05-policies.qmd
       - text: Activities
         href: 06-activities.qmd
