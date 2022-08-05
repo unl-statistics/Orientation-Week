@@ -13,49 +13,7 @@ format: html
 
 : Schedule for 218 Introduction Session
 
-# Describe Stat 218 {#describe-stat-218}
-
--   What we expect from mentor TAs
-
--   What we expect from new TAs
-
--   Constructive feedback
-
--   Contract:\
-    By the end of week 1, the instructional team should have a written contract detailing expectations (homework turnaround times, office hours, meeting times, etc.)
-
--   Lesson plans:
-
-    -   These will be collected in a portfolio, and will give you a ready-to-go resource for when you begin teaching in the spring.
-
-    -   Begin with a class schedule and syllabus.
-
-    -   By midterms, we expect that you will have the first three weeks of class ready to go.
-
-    -   By the end of the semester, you should have a rough draft for the rest of the semester.
-
-    -   You may be a lab instructor, grader, or have your own section to teach in the spring.
-
--   Teaching Journal:
-
-    -   We will give you assignments for journaling on occasion.
-
-    -   This is a great place to keep track of what worked (and didn't) in your mentor TA's class. What will you incorporate/steal? What will you change?
-
-    -   First assignment:\
-        Take 5 minutes to write a bit about what you're anxious about, excited about, and what questions you want answered during this workshop.
-
--   Those not teaching/working with Stat 218
-
--   Stat 892
-
-# Course Philosophy {#course-philosophy}
-
--   Statistical Literacy vs. Statistical Arithmetic
-
--   Stat 218 as an ACE course: supporting areas of writing and critical thinking
-
--   Philosophy for other courses
+[Slides](01-introduction-slides.qmd)
 
 # Assignments
 

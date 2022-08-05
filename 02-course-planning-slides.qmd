@@ -158,6 +158,11 @@ Cross out things you think don't belong in 218
 
 [86.] Understand that $n>30$ ensures the Central Limit Theorem holds
 
+
+## What do you think students have the most trouble with? Why?
+What can we do to help facilitate understanding?
+
+
 # [Data Vis Article](https://www.tandfonline.com/doi/pdf/10.1080/10691898.2020.1796399)
 
 ![](files/Data-Vis-Article-Screenshot.png){fig-alt="Screenshot of Data Visualization: Bringing Data to Life in an Introductory Statistics Course article in Journal of Statistics Education."}
@@ -196,3 +201,17 @@ Each exercise had different goals!
 -   Activity 2/3: Tools to gauge understanding and guide future discussion
 
 How can you incorporate writing into other things (assessments, activities, important concepts) we'll discuss this week?
+
+::: {.notes}
+In Stat 892, we'll discuss
+
+  - writing/thinking problems - how to use student writing to gauge understanding
+
+  - low, mid, and high stakes writing tasks
+
+  - peer review
+
+  - constructing assignments
+
+  - assessing writing/understanding
+:::

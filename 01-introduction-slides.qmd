@@ -68,6 +68,12 @@ Take 5 minutes to write a bit about what you're anxious about, excited about, an
 
 ## Statistical Literacy vs. Statistical Arithmetic
 
+- Focus is conceptual understanding
+
+- Goal: 
+    - quantitatively literate voters, consumers, ...
+    - help students develop a "bullshit detector" 
+
 ## ACE Course
 
 - Explanation of ACE courses    
@@ -84,4 +90,3 @@ Use mathematical, computational, statistical, logical, or other formal reasoning
 
 - Supporting areas: writing, critical thinking
 
-## Other Courses

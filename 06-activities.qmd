@@ -14,19 +14,4 @@ format: html
 
 : Activities Session Schedule
 
-# Activities in Stat 218
-
--   Before you carry out an activity
-
-    -   What is its purpose?
-
-    -   What should students get out of it?
-
--   Demo: Babies
-
--   Tips from returning TAs on activities/labs
-
--   Active learning:\
-    Active learning means active thinking; it isn't necessarily "hands-on"
-
--   Prop check-out sheet
+[Slides](06-activities-slides.qmd)

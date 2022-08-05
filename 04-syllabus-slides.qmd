@@ -23,10 +23,13 @@ format:
 How can peer review be used in Stat 218 (and other courses)?
 
 
-## CASNR Syllabus Policy
+## Syllabus Content
 
-[Link](https://unlcms.unl.edu/ianr/casnr-2/casnr-syllabus-requirements)
+### [Faculty Senate Syllabus Policy](https://www.unl.edu/facultysenate/senate/Resolutions/Syllabus%20Policy%203-1-2022.pdf)
 
+### [CASNR Syllabus Policy](https://unlcms.unl.edu/ianr/casnr-2/casnr-syllabus-requirements)
+
+### [Syllabus Statement Language](https://executivevc.unl.edu/academic-excellence/teaching-resources/course-policies)
 
 ## Requirements
 
@@ -61,14 +64,7 @@ Policy regarding late assignments.
 
 - Policy regarding academic dishonesty. This should include a full specification of penalties for first, second, etc. offenses, and provide a link to the appeal procedures for the instructor’s unit. [Statistics policy](https://statistics.unl.edu/grade-appeals-and-academic-integrity-policy)
 
-
-
-## Course Policies {.smaller}
-
-Include the following ADA Statement:
-
-The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner.
-SSD contact information: 117 Louise Pound Hall Bldg.; 402-472-3787
+- We'll talk about University-wide Policies later
 
 ## Emergency Procedures
 

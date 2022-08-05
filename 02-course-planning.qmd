@@ -17,65 +17,8 @@ format: html
 
 [Slides](02-course-planning-slides.qmd)
 
+## Handouts
 
-# Important Concepts {#important-concepts}
+- [Possible Concept List](files/List of Concepts.pdf)
 
-Star the concepts you think are big ideas
-
-Circle the concepts you think should be taught in the class
-
-Cross out things you think have no business being taught in Stat 218
-
-# Discussion of Key Concepts {#discussion-of-key-concepts}
-
--   In groups: Discuss concepts you selected. Can you narrow them down?
-
--   On board: Consensus topics
-
--   Hand out official list of concepts
-
--   What concepts do you think students have the most trouble with? Why? \
-    What do you think we can do to help facilitate understanding?
-
-# Data Vis Discussion/Writing {#datavis}
-
--   Writing Activity: \
-    What were your initial thoughts about the data vis article? Write for a few minutes about what you took away from this article.
-
-    -   Think/pair/share group discussion
-
--   Why writing is integral to statistics
-
-    As you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it. The same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts.
-
--   Writing Activity:\
-    Write for a few minutes about what kinds of alternative assessments you think work well in Stat 218. Maybe it's an assessment you experienced as a student?
-
-    -   Think/pair/share group discussion
-
--   Students often come into Stat 218 assuming that it will be a "math" class and are sometimes angry/confused to find that it is not. Writing (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math.
-
--   Writing Activity:\
-    Write for a few minutes about how you think the Stat 218 class can be structured to make clear to the students that statistics is not math.
-
-    -   Think/pair/share group discussion
-
--   All of these writing exercises are examples of low stakes writing. Each exercise had different goals!
-
-    -   Activity 1: Writing to probe a subject - to get you to think about the article
-
-    -   Activity 2/3: Tools to gauge understanding and guide future discussion
-
--   Think about how to incorporate writing into other things we'll discuss this week: activities, assessments, important concepts.
-
--   In Stat 892, we'll discuss
-
-    -   writing/thinking problems - how to use student writing to gauge understanding
-
-    -   low, mid, and high stakes writing tasks
-
-    -   peer review
-
-    -   constructing assignments
-
-    -   assessing writing/understanding
+- [Stat 218 Concepts](files/Important Concepts.pdf)

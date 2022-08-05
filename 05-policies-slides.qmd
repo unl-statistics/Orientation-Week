@@ -3,13 +3,15 @@ title: "University Policies"
 format: 
   revealjs:
     navigation-mode: vertical
-    title-slide-attributes:
-      data-background-image: https://github.com/srvanderplas/UNL-extension-APL/blob/main/image/SimulationTheoryCartoon.png?raw=true
-      data-background-size: 90%
-      data-background-position: bottom 10px center
 ---
 
 # Services for Students with Disabilities (SSD)
+
+## Services for Students with Disabilities {.smaller}
+
+The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner.
+SSD contact information: 117 Louise Pound Hall Bldg.; 402-472-3787
+
 
 ## How Students Register for Accommodations
 
@@ -43,7 +45,15 @@ format:
 
 - Learn about [Universal Design for Learning](https://canvas.unl.edu/courses/120076) and Accessibility
 
+
 # [Counseling and Psychological Services](https://caps.unl.edu/) (CAPS)
+
+## Mental Health and Well-Being Resources {.smaller}
+
+UNL offers a variety of options to students to aid in dealing with stress and adversity. Counseling and Psychological & Services is a multidisciplinary team of psychologists and counselors that works collaboratively to help you explore your feelings and thoughts and learn helpful ways to improve your mental, psychological and emotional well-being when issues arise. CAPS can be reached at 402-472-7450.
+
+Big Red Resilience & Well-Being provides one-on-one coaching to any student who wants to enhance their well-being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it. BRRWB can be reached at 402-472-8770
+
 
 ## Overview
 
@@ -58,19 +68,35 @@ format:
 [Student concern form](https://cm.maxient.com/reportingform.php?UnivofNebraskaSystem&layout_id=103)
 
 
-# Canvas
+# [Emergency Procedures](https://safety.unl.edu/)
 
-# Emergency Procedures
+Stay connected by registering for safety alerts on the UNL Campus at unlalert.unl.edu
 
-[Full site](https://safety.unl.edu/)
+Call 911 for fire or medical emergencies. UNL Campus Police can be reached at 402-472-2222 and UNO Campus Police at 402-554-2911.
 
-# Academic Integrity
+Consult the UNL Emergency Preparedness Resources website at emergency.unl.edu for measures to be taken in emergency situations.
 
-## [UNL Policies](https://studentconduct.unl.edu/academic-integrity)
 
-[Full site
 
-## [Department Policies](https://statistics.unl.edu/grade-appeals-and-academic-integrity-policy)
+# Academic Honesty Policy {.smaller}
 
-# COVID Policies
+As a student at the University of Nebraska, you are a member of an academic community in which academic integrity and responsible conduct are essential for the community to function. To ensure all that students know what is expected of them, the University has adopted Standards of Academic Integrity and Responsible Conduct. You can find the University-wide standards for academic integrity and responsible conduct online. Your instructor may have specified on their syllabus additional expectations and consequences for academic dishonesty that apply to their class.
+
+- [UNL Policies](https://studentconduct.unl.edu/academic-integrity)
+
+- [Department Policies](https://statistics.unl.edu/grade-appeals-and-academic-integrity-policy)
+
+# Diversity & Inclusiveness {.smaller}
+UNL values diversity in the broadest sense – gender, age, race, ethnicity, sexual orientation, economic status, physical and intellectual ability, religion, education and geography. We believe that acknowledging, building understanding and incorporating diversity throughout the curriculum will best prepare you for a career in a global society. The inclusive learning environment we seek to foster is one where diverse perspectives are recognized and respected, and therefore conversations within your course must be civil and respectful of individual ideas, experiences, and beliefs that may be different from your own. To challenge ideas or beliefs in a manner that is considerate of the individual expressing them is encouraged, but disrespect or hostility toward any person is not acceptable behavior in the classroom. According to our Student Code of Conduct, speech that is abusive, harassing, intimidating, or coercive is prohibited. Students who engage in such speech will be asked to leave the classroom and further disciplinary actions may be taken.
+
+# Other Information
+
+- [15th Week Policy](https://registrar.unl.edu/academic-standards/policies/fifteenth-week-policy/)
+    - No projects/exams during the last week of the semester unless they replace the final exam and are assigned by the 8th week
+
+- [Covid 19](https://covid19.unl.edu/)
+
+- [Title IX](https://www.unl.edu/equity/title-ix)
+    - You are a mandatory reporter
+    - Make sure you take the Title IX training in Firefly
 

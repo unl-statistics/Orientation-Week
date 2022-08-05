@@ -4,13 +4,3 @@ format: html
 ---
 
 [Slides](03-assessment-slides.qmd)
-
-# Overview
-
--   Homework and alternatives to homework
-
--   How Writing fits in
-
--   Input from experienced TAs
-
--   Grading practice
