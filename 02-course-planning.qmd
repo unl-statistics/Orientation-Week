@@ -15,6 +15,9 @@ format: html
 
 : Schedule for 218 Course Planning Session
 
+[Slides](02-course-planning-slides.qmd)
+
+
 # Important Concepts {#important-concepts}
 
 Star the concepts you think are big ideas

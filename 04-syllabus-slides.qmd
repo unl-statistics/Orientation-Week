@@ -1,0 +1,83 @@
+---
+title: "218 Syllabus"
+format: 
+  revealjs:
+    navigation-mode: vertical
+    title-slide-attributes:
+      data-background-image: https://github.com/srvanderplas/UNL-extension-APL/blob/main/image/SimulationTheoryCartoon.png?raw=true
+      data-background-size: 90%
+      data-background-position: bottom 10px center
+---
+
+# Peer Review of Syllabi
+
+
+## Write a quick note on your syllabus - what elements are you most unsure about?
+
+
+## Group Syllabus Review
+
+
+## Discussion:
+
+How can peer review be used in Stat 218 (and other courses)?
+
+
+## CASNR Syllabus Policy
+
+[Link](https://unlcms.unl.edu/ianr/casnr-2/casnr-syllabus-requirements)
+
+
+## Requirements
+
+The course syllabus should include the following information, not necessarily in the order shown:
+
+- Course title
+- Contact information
+- Instructor name
+- Office location
+- Contact information (telephone number and/or e-mail address)
+- Office hours
+- Required materials
+- Course prerequisites
+- Course Description
+- Measurable Behavioral Objectives
+
+## Assessment
+
+A list of papers, exams and other assessments that will contribute to the students grades, along with the exact or approximate value of those assessments either in points of percent of total grade. Repeated small assessment, such as homework or quizzes, can be considered as one line in the list of assessments. Include grading scale, translating total points or percentage earned into a letter grade.
+
+## Course Outline
+
+Due dates for major assignments: place, date, time of final exam.
+
+Policy regarding late assignments.
+
+## Course Policies
+
+- Attendance policy, if any. If attendance or participation affects grade that should be spelled out here as well in sufficient detail.
+
+- Special policies for the course, if any.
+
+- Policy regarding academic dishonesty. This should include a full specification of penalties for first, second, etc. offenses, and provide a link to the appeal procedures for the instructor’s unit. [Statistics policy](https://statistics.unl.edu/grade-appeals-and-academic-integrity-policy)
+
+
+
+## Course Policies {.smaller}
+
+Include the following ADA Statement:
+
+The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner.
+SSD contact information: 117 Louise Pound Hall Bldg.; 402-472-3787
+
+## Emergency Procedures
+
+Consult UNL emergency planning site for current emergency procedures: https://emergency.unl.edu/
+
+## ACE Material
+
+- Learning outcome for which the course is certified
+- The opportunities the course will give students to acquire the knowledge or skills necessary to achieve the Learning Outcome
+- Graded assignments which will be used.
+
+Please double check current ACE requirements at https://ace.unl.edu as they do change from time to time.

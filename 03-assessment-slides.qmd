@@ -1,0 +1,23 @@
+---
+title: "218 Assessment"
+format: 
+  revealjs:
+    navigation-mode: vertical
+    title-slide-attributes:
+      data-background-image: https://github.com/srvanderplas/UNL-extension-APL/blob/main/image/SimulationTheoryCartoon.png?raw=true
+      data-background-size: 90%
+      data-background-position: bottom 10px center
+---
+
+# Homework (and alternatives to homework)
+
+
+# How Writing Fits In
+
+# Input from Experienced TAs
+
+# Grading Practice
+
+## [Stat 218 Exam Question](files/Grading-practice.pdf)
+
+![](files/1328_001.png){fig-alt="A question from a 218 test to grade."}
