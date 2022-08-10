@@ -16,12 +16,20 @@ format:
 
 ### Mentor TAs will
 
+- Communicate with new TAs frequently
+- Provide constructive feedback
+- Allow new TAs to teach 3x during the semester
+- Share materials
 
 
 
 ## TA Expectations
 ### New TAs will
 
+- Communicate with mentor TAs frequently
+- Teach 3x during the semester
+- Return graded items promptly
+- Hold scheduled office hours
 
 ## TA Contract
 
@@ -71,7 +79,7 @@ Take 5 minutes to write a bit about what you're anxious about, excited about, an
 - Focus is conceptual understanding
 
 - Goal: 
-    - quantitatively literate voters, consumers, ...
+    - quantitatively literate voters, consumers, professionals
     - help students develop a "bullshit detector" 
 
 ## ACE Course

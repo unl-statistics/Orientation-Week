@@ -1,17 +1,38 @@
 [
   {
+    "objectID": "02-course-planning.html",
+    "href": "02-course-planning.html",
+    "title": "218 Course Planning",
+    "section": "",
+    "text": "Schedule for 218 Course Planning Session\n\n\nActivity\nTime\n\n\n\n\nImportant Concepts\n9:00 - 9:20\n\n\nDiscussion of Key Concepts\n9:20 - 10:00\n\n\nBreak\n10:00 - 10:15\n\n\nData Vis Discussion/Writing\n10:15 - 11:00\n\n\nBreak\n11:00 - 11:30\n\n\n\nSlides\n\n\n\nPossible Concept List\nStat 218 Concepts"
+  },
+  {
+    "objectID": "05-policies.html",
+    "href": "05-policies.html",
+    "title": "University Policies",
+    "section": "",
+    "text": "Slides"
+  },
+  {
+    "objectID": "06-activities.html",
+    "href": "06-activities.html",
+    "title": "218 Activities",
+    "section": "",
+    "text": "Activities Session Schedule\n\n\nActivity\nTime\n\n\n\n\nActivities in Stat 218\n10:00 - 11:15\n\n\nBreak\n11:15 - 11:30\n\n\nMeet with your mentor\n11:30 - 12:30\n\n\nBreak (lunch on your own)\n12:30 - 2:00\n\n\n\nSlides"
+  },
+  {
     "objectID": "01-introduction-slides.html#ta-expectations",
     "href": "01-introduction-slides.html#ta-expectations",
     "title": "Introduction to Stat 218",
     "section": "TA Expectations",
-    "text": "TA Expectations\nMentor TAs will"
+    "text": "TA Expectations\nMentor TAs will\n\nCommunicate with new TAs frequently\nProvide constructive feedback\nAllow new TAs to teach 3x during the semester\nShare materials"
   },
   {
     "objectID": "01-introduction-slides.html#ta-expectations-1",
     "href": "01-introduction-slides.html#ta-expectations-1",
     "title": "Introduction to Stat 218",
     "section": "TA Expectations",
-    "text": "TA Expectations\nNew TAs will"
+    "text": "TA Expectations\nNew TAs will\n\nCommunicate with mentor TAs frequently\nTeach 3x during the semester\nReturn graded items promptly\nHold scheduled office hours"
   },
   {
     "objectID": "01-introduction-slides.html#ta-contract",
@@ -53,7 +74,7 @@
     "href": "01-introduction-slides.html#statistical-literacy-vs.-statistical-arithmetic",
     "title": "Introduction to Stat 218",
     "section": "Statistical Literacy vs. Statistical Arithmetic",
-    "text": "Statistical Literacy vs. Statistical Arithmetic\n\nFocus is conceptual understanding\nGoal:\n\nquantitatively literate voters, consumers, …\nhelp students develop a “bullshit detector”"
+    "text": "Statistical Literacy vs. Statistical Arithmetic\n\nFocus is conceptual understanding\nGoal:\n\nquantitatively literate voters, consumers, professionals\nhelp students develop a “bullshit detector”"
   },
   {
     "objectID": "01-introduction-slides.html#ace-course",
@@ -68,20 +89,6 @@
     "title": "Introduction to Stat 218",
     "section": "ACE Course",
     "text": "ACE Course\n\nExplanation of ACE courses\n\nACE 3\nUse mathematical, computational, statistical, logical, or other formal reasoning to solve problems, draw inferences, justify conclusions, and determine reasonableness.\n\nSupporting areas: writing, critical thinking"
-  },
-  {
-    "objectID": "schedule2.html",
-    "href": "schedule2.html",
-    "title": "New TA and Grad Student Orientation Week",
-    "section": "",
-    "text": "Tuesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUNL TA Orientation\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Course Planning\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nWiley Plus Training\n11:30 am - 2 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\n2-3:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\n\n\n\n\n\n\n\n\n\nThursday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Syllabus\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n11-12:30 am\n\n\n\n\nUniversity Policies\n12:30 - 3 pm\nHardin 49\nALL TAs\n\n\n\n\n\n\n\n\n\n\n\nFriday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Activities\n10 am - 12:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n12:30 - 2 pm\n\n\n\n\nStat 218 Microteaching\n2 - 3:30 pm\nHardin 49\nNew TAs\n\n\nStudent Welcome Dinner\n(RSVP by August 1)\n6pm\nLazlo’s Restaurant - Haymarket location\nEveryone"
-  },
-  {
-    "objectID": "03-assessment.html",
-    "href": "03-assessment.html",
-    "title": "218 Assessment",
-    "section": "",
-    "text": "Slides"
   },
   {
     "objectID": "02-course-planning-slides.html#what-concepts-did-you-select",
@@ -189,13 +196,6 @@
     "text": "Low-Stakes Writing\nEach exercise had different goals!\n\nActivity 1: Writing to probe a subject - to get you to think about the article\nActivity 2/3: Tools to gauge understanding and guide future discussion\n\nHow can you incorporate writing into other things (assessments, activities, important concepts) we’ll discuss this week?\n\nIn Stat 892, we’ll discuss\n\nwriting/thinking problems - how to use student writing to gauge understanding\nlow, mid, and high stakes writing tasks\npeer review\nconstructing assignments\nassessing writing/understanding"
   },
   {
-    "objectID": "02-course-planning.html",
-    "href": "02-course-planning.html",
-    "title": "218 Course Planning",
-    "section": "",
-    "text": "Schedule for 218 Course Planning Session\n\n\nActivity\nTime\n\n\n\n\nImportant Concepts\n9:00 - 9:20\n\n\nDiscussion of Key Concepts\n9:20 - 10:00\n\n\nBreak\n10:00 - 10:15\n\n\nData Vis Discussion/Writing\n10:15 - 11:00\n\n\nBreak\n11:00 - 11:30\n\n\n\nSlides\n\n\n\nPossible Concept List\nStat 218 Concepts"
-  },
-  {
     "objectID": "03-assessment-slides.html#discussion---assessment-in-218",
     "href": "03-assessment-slides.html#discussion---assessment-in-218",
     "title": "218 Assessment",
@@ -245,18 +245,39 @@
     "text": "What is important in each question? How many points?"
   },
   {
-    "objectID": "05-policies.html",
-    "href": "05-policies.html",
-    "title": "University Policies",
+    "objectID": "schedule2.html",
+    "href": "schedule2.html",
+    "title": "New TA and Grad Student Orientation Week",
+    "section": "",
+    "text": "Tuesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUNL TA Orientation\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Course Planning\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nWiley Plus Training\n11:30 am - 2 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\n2-3:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\n\n\n\n\n\n\n\n\n\nThursday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Syllabus\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n11-12:30 am\n\n\n\n\nUniversity Policies\n12:30 - 3 pm\nHardin 49\nALL TAs\n\n\n\n\n\n\n\n\n\n\n\nFriday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Activities\n10 am - 12:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n12:30 - 2 pm\n\n\n\n\nStat 218 Microteaching\n2 - 3:30 pm\nHardin 49\nNew TAs\n\n\nStudent Welcome Dinner\n(RSVP by August 1)\n6pm\nLazlo’s Restaurant - Haymarket location\nEveryone"
+  },
+  {
+    "objectID": "04-syllabus.html",
+    "href": "04-syllabus.html",
+    "title": "218 Syllabus",
+    "section": "",
+    "text": "Peer Review of Syllabi\n\nWrite a quick note on your syllabus - what elements are you most unsure about?\nReview each person’s syllabus in your group\nDiscussion:\nHow peer review can be used in Stat 218 and other courses\nCASNR syllabus policy and group discussion\n\n\n\nLessons Learned from last year\n\nThings that went well\nThings that could be improved\nQuestions or concerns about Fall?"
+  },
+  {
+    "objectID": "07-microteaching.html",
+    "href": "07-microteaching.html",
+    "title": "218 Microteaching",
+    "section": "",
+    "text": "Activity\nTime\n\n\n\n\nMicroteaching\n2:00 - 3:15\n\n\nQ&A\n3:15 - 3:30\n\n\n\nAssignment for Stat 892 (due first class period):\nWrite a question to assess students’ understanding of your microteaching topic. The question should NOT emphasize calculation.\nBegin reading the GAISE recommendations."
+  },
+  {
+    "objectID": "03-assessment.html",
+    "href": "03-assessment.html",
+    "title": "218 Assessment",
     "section": "",
     "text": "Slides"
   },
   {
-    "objectID": "01-introduction.html",
-    "href": "01-introduction.html",
-    "title": "218 Introduction",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "New TA and Grad Student Orientation Week",
     "section": "",
-    "text": "Assignments\n\nRead “Data Visualization: Bringing Data to Live in an Introductory Statistics Course” (by Wednesday)\nMicroteaching Assignment Topic (Topic list)\nRead GAISE College Report (for 892 Week 1)\nNote: You only have to read the main report, though you can skim any appendices you think are interesting."
+    "text": "Schedule of Activities\n\n\nEvent\nDay\nTime\nLocation\nWho?\n\n\n\n\nNew Graduate Student Orientation\nMonday\n9-11 am\nHardin 49\nAll new statistics graduate students\n\n\nStat 218 Introduction\nMonday\n12-2 pm\nHardin Hall Large Conference Room\nNew TAs\n\n\nDepartment Meeting\nMonday\n3-4:30 pm\nHardin Hall Auditorium\nEveryone\n\n\nUNL TA Orientation\nTuesday\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\nStat 218 Course Planning\nWednesday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nWiley Plus Training\nWednesday\n11:30 am - 2 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\nWednesday\n2-3:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Syllabus\nThursday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\nThursday\n11-12:30 am\n\n\n\n\nUniversity Policies\nThursday\n12:30 - 3 pm\nHardin 49\nALL TAs\n\n\nStat 218 Activities\nFriday\n10 am - 12:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\nFriday\n12:30 - 2 pm\n\n\n\n\nStat 218 Microteaching\nFriday\n2 - 3:30 pm\nHardin 49\nNew TAs\n\n\nStudent Welcome Dinner\n(RSVP by August 1)\nFriday\n6pm\nLazlo’s Restaurant - Haymarket location\nEveryone"
   },
   {
     "objectID": "05-policies-slides.html#services-for-students-with-disabilities",
@@ -313,6 +334,13 @@
     "title": "University Policies",
     "section": "Concerns about Students",
     "text": "Concerns about Students\nStudent concern form"
+  },
+  {
+    "objectID": "01-introduction.html",
+    "href": "01-introduction.html",
+    "title": "218 Introduction",
+    "section": "",
+    "text": "Assignments\n\nRead “Data Visualization: Bringing Data to Live in an Introductory Statistics Course” (by Wednesday)\nMicroteaching Assignment Topic (Topic list)\nRead GAISE College Report (for 892 Week 1)\nNote: You only have to read the main report, though you can skim any appendices you think are interesting."
   },
   {
     "objectID": "04-syllabus-slides.html#write-a-quick-note-on-your-syllabus---what-elements-are-you-most-unsure-about",
@@ -406,38 +434,10 @@
     "text": "Questions or Concerns about Fall?"
   },
   {
-    "objectID": "04-syllabus.html",
-    "href": "04-syllabus.html",
-    "title": "218 Syllabus",
-    "section": "",
-    "text": "Peer Review of Syllabi\n\nWrite a quick note on your syllabus - what elements are you most unsure about?\nReview each person’s syllabus in your group\nDiscussion:\nHow peer review can be used in Stat 218 and other courses\nCASNR syllabus policy and group discussion\n\n\n\nLessons Learned from last year\n\nThings that went well\nThings that could be improved\nQuestions or concerns about Fall?"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "New TA and Grad Student Orientation Week",
     "section": "",
     "text": "Other Information\n\n\n\n\n\n\nTeaching and Orientation (UNL-wide)\n\n\n\n\nUNL Grad Studies Orientation (Canvas)\nUNL Grad Studies Institute for International Teaching Assistants\nThis program takes place 2 weeks before orientation week and is extremely valuable for both domestic and international students. It is required for international students (unless you have a Masters degree from an English-language university).\n\n\n\n\n\n\n\n\n\nInformation for Incoming Students\n\n\n\nOur department’s Graduate Student Association (GSA) maintains an informal handbook for new graduate students that includes information such as\n\nhow to register for classes\nhow to get UNL ID card and bus pas\nhow to connect to campus WiFi\nhousing resources\nplaces to go in Lincoln\n\nand much, much more. Check it out!"
-  },
-  {
-    "objectID": "07-microteaching.html",
-    "href": "07-microteaching.html",
-    "title": "218 Microteaching",
-    "section": "",
-    "text": "Activity\nTime\n\n\n\n\nMicroteaching\n2:00 - 3:15\n\n\nQ&A\n3:15 - 3:30\n\n\n\nAssignment for Stat 892 (due first class period):\nWrite a question to assess students’ understanding of your microteaching topic. The question should NOT emphasize calculation.\nBegin reading the GAISE recommendations."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "New TA and Grad Student Orientation Week",
-    "section": "",
-    "text": "Schedule of Activities\n\n\nEvent\nDay\nTime\nLocation\nWho?\n\n\n\n\nNew Graduate Student Orientation\nMonday\n9-11 am\nHardin 49\nAll new statistics graduate students\n\n\nStat 218 Introduction\nMonday\n12-2 pm\nHardin Hall Large Conference Room\nNew TAs\n\n\nDepartment Meeting\nMonday\n3-4:30 pm\nHardin Hall Auditorium\nEveryone\n\n\nUNL TA Orientation\nTuesday\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\nStat 218 Course Planning\nWednesday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nWiley Plus Training\nWednesday\n11:30 am - 2 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\nWednesday\n2-3:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nStat 218 Syllabus\nThursday\n9-11 am\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\nThursday\n11-12:30 am\n\n\n\n\nUniversity Policies\nThursday\n12:30 - 3 pm\nHardin 49\nALL TAs\n\n\nStat 218 Activities\nFriday\n10 am - 12:30 pm\nHardin 49\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\nFriday\n12:30 - 2 pm\n\n\n\n\nStat 218 Microteaching\nFriday\n2 - 3:30 pm\nHardin 49\nNew TAs\n\n\nStudent Welcome Dinner\n(RSVP by August 1)\nFriday\n6pm\nLazlo’s Restaurant - Haymarket location\nEveryone"
-  },
-  {
-    "objectID": "06-activities.html",
-    "href": "06-activities.html",
-    "title": "218 Activities",
-    "section": "",
-    "text": "Activities Session Schedule\n\n\nActivity\nTime\n\n\n\n\nActivities in Stat 218\n10:00 - 11:15\n\n\nBreak\n11:15 - 11:30\n\n\nMeet with your mentor\n11:30 - 12:30\n\n\nBreak (lunch on your own)\n12:30 - 2:00\n\n\n\nSlides"
   }
 ]
