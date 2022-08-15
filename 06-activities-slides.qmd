@@ -1,0 +1,74 @@
+---
+title: "218 Activities"
+format:
+  revealjs:
+    navigation-mode: vertical
+---
+
+# Activities in Stat 218
+
+## Before you carry out an activity:
+
+- What is its purpose?
+
+- What should students get out of it?
+
+## Demo: Babies
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/HBW5vdhr_PA" title="Magazine - Can Babies Tell Right From Wrong? | The New York Times" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Simulation: Babies {.smaller}
+An investigation reported in the November 2007 issue of *Nature* (Hamlin, Wynn, and Bloom) aimed at assessing whether infants take into account an individual’s actions towards others in evaluating that individual as appealing or aversive, perhaps laying the foundation for social interaction. 
+
+In one component of the study, each of sixteen 10-month-old healthy infants (in New England) were shown a “climber” character that could not make it up a hill in two tries. Then they were shown two scenarios for the climber’s next try, one where the climber was pushed to the top of the hill by another character (“helper”) and one where the climber was pushed back down the hill by another character (“hinderer”). Each infant was alternately shown these two scenarios many times. 
+
+Then the child was presented with both pieces of wood (the “helper” and the “hinderer”) and asked to pick one to play with. In the study **14 out of the 16 babies** picked the “helper” toy. Does this provide evidence that such 10-month-old infants have a *genuine preference* for the helper toy?
+
+## Physical Simulation
+
+Flip a coin 16 times to simulate the experiment.
+
+- What does each flip of the coin represent?
+
+- What does the total number of heads represent?
+
+## Make a Histogram of Class Data
+
+## Simulation using the applet
+
+[Applet link](https://www.isi-stats.com/isi2nd/ISIapplets2021.html)
+
+
+## Discussion
+
+- How does this differ from the way you were taught statistics?
+
+- What "trouble spots" do you anticipate students having?
+
+# Experienced TA Tips    
+Activities and Labs
+
+
+# Active Learning
+
+## Active Learning
+
+- Student is not just passively observing the class/lecture
+
+- Does not require props or entertainment
+
+- As simple as think/pair/share
+
+- Try to include active learning in every class
+
+## Props
+
+- Prop check-out sheet in the main office supply closet 
+
+- Props:
+    - barbie dolls
+    - decks of cards
+    - flashcards
+    - balls
+    - dice
+    - ... much more. 
