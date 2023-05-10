@@ -5,13 +5,13 @@ format: html
 
 # Schedule
 
-| Activity                                                  | Time          |
-|-----------------------------------------------------------|---------------|
-| [Important Concepts](#important-concepts)                 | 9:00 - 9:20   |
-| [Discussion of Key Concepts](#discussion-of-key-concepts) | 9:20 - 10:00  |
-| Break                                                     | 10:00 - 10:15 |
-| [Data Vis Discussion/Writing](#datavis)                   | 10:15 - 11:00 |
-| Break                                                     | 11:00 - 11:30 |
+| Activity                    | Time          |
+|-----------------------------|---------------|
+| Important Concepts          | 9:00 - 9:20   |
+| Discussion of Key Concepts  | 9:20 - 10:00  |
+| Break                       | 10:00 - 10:15 |
+| Data Vis Discussion/Writing | 10:15 - 11:00 |
+| Break                       | 11:00 - 11:30 |
 
 : Schedule for 218 Course Planning Session
 
@@ -19,6 +19,6 @@ format: html
 
 ## Handouts
 
-- [Possible Concept List](files/List of Concepts.pdf)
+-   [Possible Concept List](files/List%20of%20Concepts.pdf)
 
-- [Stat 218 Concepts](files/Important Concepts.pdf)
+-   [Stat 218 Concepts](files/Important%20Concepts.pdf)

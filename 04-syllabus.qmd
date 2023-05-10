@@ -5,12 +5,12 @@ format: html
 
 # Schedule
 
-| Activity                               | Time          |
-|----------------------------------------|---------------|
-| [Peer Review of Syllabi](#peer-review) | 9:00 - 10:00  |
-| Break                                  | 10:00 - 10:10 |
-| [Lessons Learned](#lessons-learned)    | 10:10 - 11:00 |
-| Break (lunch on your own)              | 11:00 - 12:30 |
+| Activity                  | Time          |
+|---------------------------|---------------|
+| Peer Review of Syllabi    | 9:00 - 10:00  |
+| Break                     | 10:00 - 10:10 |
+| Lessons Learned           | 10:10 - 11:00 |
+| Break (lunch on your own) | 11:00 - 12:30 |
 
 : Schedule for Syllabus session
 

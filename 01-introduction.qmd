@@ -5,11 +5,11 @@ format: html
 
 # Schedule
 
-| Activity                                | Time         |
-|-----------------------------------------|--------------|
-| Lunch                                   | 12-12:45     |
-| [Describe Stat 218](#describe-stat-218) | 12:45 - 1:30 |
-| [Course Philosophy](#course-philosophy) | 1:30 - 2:00  |
+| Activity          | Time         |
+|-------------------|--------------|
+| Lunch             | 12-12:45     |
+| Describe Stat 218 | 12:45 - 1:30 |
+| Course Philosophy | 1:30 - 2:00  |
 
 : Schedule for 218 Introduction Session
 
