@@ -8,20 +8,25 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Intro
-        href: 01-introduction.qmd
-      - text: Course Planning
-        href: 02-course-planning.qmd
-      - text: Assessment
-        href: 03-assessment.qmd
-      - text: Syllabus
-        href: 04-syllabus.qmd
-      - text: Policies
-        href: 05-policies.qmd
-      - text: Activities
-        href: 06-activities.qmd
-      - text: Microteaching
-        href: 07-microteaching.qmd
+      - text: Sessions
+        menu:
+          - text: Intro
+            href: 01-introduction.qmd
+          - text: Course Planning
+            href: 02-course-planning.qmd
+          - text: Assessment
+            href: 03-assessment.qmd
+          - text: Syllabus
+            href: 04-syllabus.qmd
+          - text: Policies
+            href: 05-policies.qmd
+          - text: Activities
+            href: 06-activities.qmd
+          - text: Microteaching
+            href: 07-microteaching.qmd
+      - text: GSA Grad Guidebook
+        href: https://unl-statistics.github.io/IncomingStudentHandbook/
+
 
 format:
   html:
