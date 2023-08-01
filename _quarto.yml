@@ -18,10 +18,10 @@ website:
             href: 03-assessment.qmd
           - text: Syllabus
             href: 04-syllabus.qmd
-          - text: Policies
-            href: 05-policies.qmd
           - text: Activities
             href: 06-activities.qmd
+          - text: Policies
+            href: 05-policies.qmd
           - text: Microteaching
             href: 07-microteaching.qmd
       - text: GSA Grad Guidebook

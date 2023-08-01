@@ -1,17 +1,172 @@
 ---
-title: "University Policies"
+title: "Important Policies"
 format: 
   revealjs:
     navigation-mode: vertical
 ---
 
-# Services for Students with Disabilities (SSD)
+# Expectations
+
+## Class Scheduling
+
+Class (or an equivalent instructional opportunity) will be held when scheduled
+
+- All 15 weeks of the semester
+
+- You will be present and helping students learn the material
+
+- Canceling class once or twice because of illness is reasonable, but you can also ask someone to fill in for you.
+
+- Project work days, review days, etc. are all reasonable options
+
+- Unless you are teaching a class scheduled for online, you should plan to be in person    
+(Occasional extenuating circumstances -> Zoom is fine)
+
+## Syllabus = Contract
+
+
+[15th Week Policy](https://registrar.unl.edu/academic-standards/policies/fifteenth-week-policy/)
+
+- No projects/exams during the last week of the semester unless 
+    - they replace the final exam 
+    - they are assigned by the 8th week
+
+## Syllabus = Contract
+
+- If you say you are having a final exam in the syllabus, 
+    - you must have a final exam
+    - it must be held during finals week at the scheduled time
+
+- If you do not have a final exam in the syllabus,
+    - you may not add a final exam (exam during finals week)
+    - you may add an exam that takes place before the 15th week of class
+
+
+# TA Conduct
+
+## University Policies
+
+As a TA in this department, you are expected to comply with University Policies with regards to use of equipment, treatment of students, scheduling of the semester, and more.
+
+**Failure to comply with these policies can result in the loss of your assistantship.**
+
+
+## University Policies
+
+- [EM 16 - Responsible Use of University Computers and Information Systems](https://nebraska.edu/-/media/unca/docs/offices-and-policies/policies/executive-memorandum/policy-for-responsible-use-of-university-computers-and-information-systems.pdf)
+    - Read this (and check it at least once a semester, it changes)
+    - Ask the IT helpdesk if you need clarification
+
+
+
+## University Policies
+
+- [EM 23 - Students Called into Military Service](https://nebraska.edu/-/media/unca/docs/offices-and-policies/policies/executive-memorandum/students-called-into-military-service.pdf)
+    - Students called to active duty mid-semester can receive a refund or request an incomplete
+    - More generally (and outside this policy), you are encouraged to work with students called to reserve duty, training, etc. where possible.
+
+
+## University Policies
+
+- [EM 40 - Policy on Chosen Name and Gender Identity](https://nebraska.edu/-/media/unca/docs/offices-and-policies/policies/executive-memorandum/policy-on-chosen-name-and-gender-identity.pdf)
+    - Chosen names should be used in the course of University business, education, and communication
+    - Gender identity should be used instead of sex (except on legal documents)
+
+## University Policies
+
+- [EM 44 - Sexual Misconduct Minimum Training Standards](https://nebraska.edu/-/media/unca/docs/offices-and-policies/policies/executive-memorandum/sexual-misconduct-minimum-training-standards.pdf)
+    - Annual training required for all faculty and staff
+
+- [Title IX](https://www.unl.edu/equity/title-ix)
+    - You are a mandatory reporter
+    - Make sure you take the Title IX training in Firefly
+
+## Diversity & Inclusiveness {.smaller}
+
+> UNL values diversity in the broadest sense – gender, age, race, ethnicity, sexual orientation, economic status, physical and intellectual ability, religion, education and geography. We believe that acknowledging, building understanding and incorporating diversity throughout the curriculum will best prepare you for a career in a global society. The inclusive learning environment we seek to foster is one where diverse perspectives are recognized and respected, and therefore conversations within your course must be civil and respectful of individual ideas, experiences, and beliefs that may be different from your own. 
+To challenge ideas or beliefs in a manner that is considerate of the individual expressing them is encouraged, but **disrespect or hostility toward any person is not acceptable behavior in the classroom**. According to our Student Code of Conduct, speech that is abusive, harassing, intimidating, or coercive is prohibited. Students who engage in such speech will be asked to leave the classroom and further disciplinary actions may be taken.
+
+# Department Policies
+
+## Academic Integrity
+
+[UNL Policies](https://studentconduct.unl.edu/academic-integrity)
+
+[Department  Policy](https://statistics.unl.edu/grade-appeals-and-academic-integrity-policy)
+
+>  “Academic honesty is essential to the existence and integrity of an academic institution. The responsibility for maintaining that integrity is shared by all members of the academic community. Students are expected to adhere to guidelines concerning academic dishonesty outlined in Section 4.2 of University’s Student Code of Conduct (http://stuafs.unl.edu/ja/code/).  Students who commit acts of academic dishonesty are subject to disciplinary action and are granted due process and the right to appeal any decision.”
+
+This statement should be in your syllabus.
+
+
+## Academic Honesty Policy
+
+- Consider what ChatGPT and other AI systems can do
+- Include a statement about the use of generative AI in your course - is it allowed? not?
+
+- What I do:
+    - Policy allowing me to replace any assignment grade with an oral exam covering that material
+    - You can use AI for most things, but you must be able to explain your answer to me without the internet
+
+## Academic Integrity
+
+Other responsibilities:
+
+- Documentation of academic integrity sanctions must be kept for 1 year
+
+- Anything more than a 0 on the assignment = inform the Curriculum Committee
+
+- Make a report to the department chair in writing (if student's grade is lowered)
+
+
+## Academic Integrity
+
+> Consequences of academic dishonesty in Statistics courses, depending on the degree of severity as interpreted by an instructor, may range from a warning to assigning an F for the course.  The instructor might also choose to assign a zero or partial credit for a specific assignment, quiz, examination or laboratory report in which dishonesty was involved.  In all cases the instructor must document the instance(s) of student activity which constitutes academic dishonesty. 
+
+## Appeals Process
+### Academic Integrity Sanction Severity
+Must appeal within 30 days of being informed of the sanction
+
+- Chief Instructor of the Course (TA supervisor)
+- Written appeal to Department Chair
+    - Chair forwards to Dept Curriculum Committee (30 day response time)
+- Student can then appeal to Dept Chair directly
+- Appeal to CASNR or UNL appeal process
+
+## Appeals Process
+### Academic Integrity Finding
+
+> If a student facing sanctions due to academic dishonesty in a Department of Statistics course wishes to dispute the finding of academic dishonesty, the matter shall be referred to the Conduct Officer for disposition in accordance with the University Disciplinary Procedures, as detailed in the Student Code of Conduct.
+
+
+## Appeals Process
+### Appealing other Dept Policies
+
+- Academic advisor
+- Departmental Committee implementing the policy
+- Department Curriculum Committee (grad or undergrad, as applies)
+- Department Chair
+- College Dean's Office
+
+30 day limit for appeals after the initial decision
+
+## Appeals Process
+### Grade Appeals
+
+- Instructor (30 days of grade being posted)
+    - decision within the 30 day period
+- Chair of the Department (who forwards to curriculum committee)
+    - filed within 60 days of grade posted
+- CASNR dean (undergrad) or Grad college (grad)
+
+# Student Resources & Syllabus Policies
 
 ## Services for Students with Disabilities {.smaller}
 
-The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner.
-SSD contact information: 117 Louise Pound Hall Bldg.; 402-472-3787
+### SSD Syllabus Statement
 
+> The University strives to make all learning experiences as accessible as possible. If you anticipate or experience barriers based on your disability (including mental health, chronic or temporary medical conditions), please let me know immediately so that we can discuss options privately. To establish reasonable accommodations, I may request that you register with Services for Students with Disabilities (SSD). If you are eligible for services and register with their office, make arrangements with me as soon as possible to discuss your accommodations so they can be implemented in a timely manner.
+SSD contact information: 117 Louise Pound Hall Bldg.; 402-472-3787
 
 ## How Students Register for Accommodations
 
@@ -19,23 +174,26 @@ SSD contact information: 117 Louise Pound Hall Bldg.; 402-472-3787
 2. Provide documentation from healthcare provider
 3. SSD will contact you to schedule an appointment
 
-## How Students Request Test Accommodations {.smaller}
+## How Students Request Test Accom. {.smaller}
 
 1. Students contact SSD for an updated copy of their plan.
+
 2. Students make an appointment with each of their instructors and share a copy of their Accommodation Plan.  Students must be present and available to answer questions at this meeting.
+
 3. Students clarify with their instructor(s) about their exams and where they will be taken. Instructors decide where exams are administered.
+
+
+
+## How Students Request Test Accom. {.smaller}
+
 4. For paper exams and quizzes, instructors complete the SSD Instructor Exam Proctor Form (Link has been added to the student accommodation plan.) 
     - The instructor will identify where the student will take paper exams (at SSD testing center or a location provided by the instructor).  
     - It is the student's responsibility to discuss scheduling conflicts with their instructor in advance.  
     - Student exams may need to be scheduled at alternative times so a student does not miss other classes. 
-
-
-
-## How Students Request Test Accommodations {.smaller}
 5. Once the proctor form is completed, a copy will be sent to SSD, the instructor and the student.  If the instructor wants student exams proctored at SSD, the student will report to SSD testing center on the scheduled days and times. 
 6. If exams are online, no additional information is needed by SSD. The instructor extends the time.
 
-## Other Resources
+## Accessibility/Accommodations Resources
 
 - [Extending Time for Online Exams](https://www.unl.edu/ssd/content/extratime)
 
@@ -46,16 +204,8 @@ SSD contact information: 117 Louise Pound Hall Bldg.; 402-472-3787
 - Learn about [Universal Design for Learning](https://canvas.unl.edu/courses/120076) and Accessibility
 
 
-# [Counseling and Psychological Services](https://caps.unl.edu/) (CAPS)
 
-## Mental Health and Well-Being Resources {.smaller}
-
-UNL offers a variety of options to students to aid in dealing with stress and adversity. Counseling and Psychological & Services is a multidisciplinary team of psychologists and counselors that works collaboratively to help you explore your feelings and thoughts and learn helpful ways to improve your mental, psychological and emotional well-being when issues arise. CAPS can be reached at 402-472-7450.
-
-Big Red Resilience & Well-Being provides one-on-one coaching to any student who wants to enhance their well-being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it. BRRWB can be reached at 402-472-8770
-
-
-## Overview
+## [Counseling and Psychological Services](https://caps.unl.edu/) (CAPS)
 
 - Crisis care: 402-472-7450 (24/7 help line)
 
@@ -63,60 +213,30 @@ Big Red Resilience & Well-Being provides one-on-one coaching to any student who 
 
 - Services are free to students (covered by fees)
 
+
+## Mental Health and Well-Being {.smaller}
+
+### Syllabus Statements
+
+> UNL offers a variety of options to students to aid in dealing with stress and adversity. Counseling and Psychological & Services is a multidisciplinary team of psychologists and counselors that works collaboratively to help you explore your feelings and thoughts and learn helpful ways to improve your mental, psychological and emotional well-being when issues arise. CAPS can be reached at 402-472-7450.
+
+> Big Red Resilience & Well-Being provides one-on-one coaching to any student who wants to enhance their well-being. Trained well-being coaches help students create and be grateful for positive experiences, practice resilience and self-compassion, and find support as they need it. BRRWB can be reached at 402-472-8770
+
 ## Concerns about Students
 
 [Student concern form](https://cm.maxient.com/reportingform.php?UnivofNebraskaSystem&layout_id=103)
 
+> This form should be used to report non-emergency concerns about student well-being. The information you provide will be forwarded to the UNL Behavioral Intervention Team (BIT). BIT provides a proactive, supportive, and coordinated response to student behaviors that may compromise the **safety and well-being of the student and/or others**.
+
+- Feel free to discuss concerns with me at any time.
 
 # [Emergency Procedures](https://safety.unl.edu/)
 
 Stay connected by registering for safety alerts on the UNL Campus at unlalert.unl.edu
 
-Call 911 for fire or medical emergencies. UNL Campus Police can be reached at 402-472-2222 and UNO Campus Police at 402-554-2911.
+- Call 911 for fire or medical emergencies. 
+- UNL Campus Police can be reached at 402-472-2222.
 
 Consult the UNL Emergency Preparedness Resources website at emergency.unl.edu for measures to be taken in emergency situations.
 
 
-
-# Academic Honesty Policy {.smaller}
-
-As a student at the University of Nebraska, you are a member of an academic community in which academic integrity and responsible conduct are essential for the community to function. To ensure all that students know what is expected of them, the University has adopted Standards of Academic Integrity and Responsible Conduct. You can find the University-wide standards for academic integrity and responsible conduct online. Your instructor may have specified on their syllabus additional expectations and consequences for academic dishonesty that apply to their class.
-
-- [UNL Policies](https://studentconduct.unl.edu/academic-integrity)
-
-- [Department Policies](https://statistics.unl.edu/grade-appeals-and-academic-integrity-policy)
-
-# Diversity & Inclusiveness {.smaller}
-UNL values diversity in the broadest sense – gender, age, race, ethnicity, sexual orientation, economic status, physical and intellectual ability, religion, education and geography. We believe that acknowledging, building understanding and incorporating diversity throughout the curriculum will best prepare you for a career in a global society. The inclusive learning environment we seek to foster is one where diverse perspectives are recognized and respected, and therefore conversations within your course must be civil and respectful of individual ideas, experiences, and beliefs that may be different from your own. To challenge ideas or beliefs in a manner that is considerate of the individual expressing them is encouraged, but disrespect or hostility toward any person is not acceptable behavior in the classroom. According to our Student Code of Conduct, speech that is abusive, harassing, intimidating, or coercive is prohibited. Students who engage in such speech will be asked to leave the classroom and further disciplinary actions may be taken.
-
-# Other Information
-
-- [15th Week Policy](https://registrar.unl.edu/academic-standards/policies/fifteenth-week-policy/)
-    - No projects/exams during the last week of the semester unless they replace the final exam and are assigned by the 8th week
-
-- [Covid 19](https://covid19.unl.edu/)
-
-- [Title IX](https://www.unl.edu/equity/title-ix)
-    - You are a mandatory reporter
-    - Make sure you take the Title IX training in Firefly
-
-# General Expectations
-
-## Class (or an equivalent activity) will be held when scheduled
-    
-  - All 15 weeks of the semester
-  
-  - You will be present and helping students learn the material
-  
-  - Canceling class once or twice because of illness is reasonable, but you can also ask someone to fill in for you.
-  
-  - Project work days, review days, etc. are all reasonable options
-
-  - Unless you are teaching a class scheduled for online, you should plan to be in person    
-  (Occasional extenuating circumstances -> Zoom is fine)
-
-## Treat everyone with respect
-
-  - Use students' preferred names/pronouns when requested
-  
-  - 
