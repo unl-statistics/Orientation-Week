@@ -3,8 +3,8 @@
 
 | Event                                        | Time            | Location               | Who?                                 |
 |----------------------------------------------|-----------------|------------------------|--------------------------------------|
-| New Graduate Student Orientation             | 9-11 am         | Hardin 49              | All new statistics graduate students |
-| [Stat 218 Introduction](01-introduction.qmd) | 11:30 - 1:30 pm | TBD                    | New TAs                              |
+| New Graduate Student Orientation             | 9-11 am         | Hardin 354A              | All new statistics graduate students |
+| [Stat 218 Introduction](01-introduction.qmd) | 11:30 - 1:30 pm | Hardin 354A                    | New TAs                              |
 | Department Meeting                           | 2-3:30 pm       | Hardin Hall Auditorium | Everyone                             |
 :::
 
@@ -24,9 +24,9 @@
 
 | Event                                              | Time            | Location | Who?                   |
 |----------------------------------------------------|-----------------|----------|------------------------|
-| [Stat 218 Course Planning](02-course-planning.qmd) | 9-11 am         | TBD      | New TAs + Stat 218 TAs |
-| Canvas/WileyPlus Training                          | 11:30 am - 2 pm | TBD      | New TAs + Stat 218 TAs |
-| [Stat 218 Assessment](03-assessment.qmd)           | 2-3:30 pm       | TBD      | New TAs + Stat 218 TAs |
+| [Stat 218 Course Planning](02-course-planning.qmd) | 9-11 am         | Hardin 163      | New TAs + Stat 218 TAs |
+| Canvas/WileyPlus Training                          | 11:30 am - 2 pm | Hardin 163      | New TAs + Stat 218 TAs |
+| [Stat 218 Assessment](03-assessment.qmd)           | 2-3:30 pm       | Hardin 163      | New TAs + Stat 218 TAs |
 :::
 
 ::: {.callout-tip .column-page}
@@ -34,24 +34,24 @@
 
 | Event                                    | Time        | Location | Who?                   |
 |------------------------------------------|-------------|----------|------------------------|
-| [Stat 218 Syllabus](04-syllabus.qmd)     | 9-11 am     | TBD      | New TAs + Stat 218 TAs |
-| Lunch (on your own)                      | 11-12:30 am |          |                        |
-| [Stat 218 Activities](06-activities.qmd) | 12:30 - 3pm | TBD      | New TAs + Stat 218 TAs |
+| [Stat 218 Syllabus](04-syllabus.qmd)     | 9-11 am     | Hardin 163      | New TAs + Stat 218 TAs |
+| Lunch (on your own)                      | 11-12:30 am |         |                        |
+| [Stat 218 Activities](06-activities.qmd) | 12:30 - 3pm | Hardin 163      | New TAs + Stat 218 TAs |
 :::
 
 ::: {.callout-tip .column-page}
 ### Friday
 
-+---------------------------------------------------------------------------------------------------------------------------+-----------------+----------+----------+
-| Event                                                                                                                     | Time            | Location | Who?     |
-+===========================================================================================================================+=================+==========+==========+
-| [University Policies](05-policies.qmd)                                                                                    | 10am - 12:30 pm | TBD      | ALL TAs  |
-+---------------------------------------------------------------------------------------------------------------------------+-----------------+----------+----------+
-| Lunch (on your own)                                                                                                       | 12:30 - 2 pm    |          |          |
-+---------------------------------------------------------------------------------------------------------------------------+-----------------+----------+----------+
-| [Stat 218 Microteaching](07-microteaching.qmd)                                                                            | 2 - 3:30 pm     | TBD      | New TAs  |
-+---------------------------------------------------------------------------------------------------------------------------+-----------------+----------+----------+
-| Student Welcome Dinner\                                                                                                   | 6pm             | TBD      | Everyone |
-| ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeq9MelnThsovox3cRawsbP_DbxtKqoZFme0hOMNtt7VYq0cw/viewform) by August 1) |                 |          |          |
-+---------------------------------------------------------------------------------------------------------------------------+-----------------+----------+----------+
++---------------------------------------------------------------------------------------------------------------------------+-----------------+--------------+----------+
+| Event                                                                                                                     | Time            | Location     | Who?     |
++===========================================================================================================================+=================+==============+==========+
+| [University Policies](05-policies.qmd)                                                                                    | 10am - 12:30 pm | Hardin 163   | ALL TAs  |
++---------------------------------------------------------------------------------------------------------------------------+-----------------+--------------+----------+
+| Lunch (on your own)                                                                                                       | 12:30 - 2 pm    |              |          |
++---------------------------------------------------------------------------------------------------------------------------+-----------------+--------------+----------+
+| [Stat 218 Microteaching](07-microteaching.qmd)                                                                            | 2 - 3:30 pm     | Hardin 163   | New TAs  |
++---------------------------------------------------------------------------------------------------------------------------+-----------------+--------------+----------+
+| Student Welcome Dinner\                                                                                                   | 5:30 - 8 pm     | Bethany Park | Everyone |
+| ([RSVP](https://docs.google.com/forms/d/e/1FAIpQLSeq9MelnThsovox3cRawsbP_DbxtKqoZFme0hOMNtt7VYq0cw/viewform) by August 1) |                 |              |          |
++---------------------------------------------------------------------------------------------------------------------------+-----------------+--------------+----------+
 :::
