@@ -54,6 +54,12 @@ A list of papers, exams and other assessments that will contribute to the studen
 
 Due dates for major assignments: place, date, time of final exam.
 
+- Place of final exam is usually determined by week 10 or so in the semester
+
+- Stat 218 has unit exams - all exams are held at the same time in the evening. 
+
+- Students in chem and stat 218 have exams at the same time. Chem wins in the Fall, Stat wins in the spring. Students with conflicts make arrangements for alternate exam times.
+
 Policy regarding late assignments.
 
 ## Course Policies
