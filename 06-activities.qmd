@@ -7,9 +7,9 @@ format: html
 
 | Activity                  | Time          |
 |---------------------------|---------------|
-| Activities in Stat 218    | 12:30 -  1:45 |
-| Break                     |  1:45 -  2:00 |
-| Meet with your mentor     |  2:00 -  3:00 |
+| Activities in Stat 218    | 75 minutes |
+| Break                     |  15 minutes |
+| Meet with your mentor     |  60 minutes |
 
 : Activities Session Schedule
 

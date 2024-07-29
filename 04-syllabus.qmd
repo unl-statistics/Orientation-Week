@@ -7,10 +7,9 @@ format: html
 
 | Activity                  | Time          |
 |---------------------------|---------------|
-| Peer Review of Syllabi    | 9:00 - 10:00  |
-| Break                     | 10:00 - 10:10 |
-| Lessons Learned           | 10:10 - 11:00 |
-| Break (lunch on your own) | 11:00 - 12:30 |
+| Peer Review / Syllabus Discussion    | 60 minutes  |
+| Break                     | 10 minutes |
+| Lessons Learned           | 50 minutes |
 
 : Schedule for Syllabus session
 

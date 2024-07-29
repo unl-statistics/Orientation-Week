@@ -7,11 +7,11 @@ format: html
 
 | Activity                    | Time          |
 |-----------------------------|---------------|
-| Important Concepts          | 9:00 - 9:20   |
-| Discussion of Key Concepts  | 9:20 - 10:00  |
-| Break                       | 10:00 - 10:15 |
-| Data Vis Discussion/Writing | 10:15 - 11:00 |
-| Break                       | 11:00 - 11:30 |
+| Important Concepts          | 20 minutes   |
+| Discussion of Key Concepts  | 40 minutes  |
+| Break                       | 15 minutes |
+| Data Vis Discussion/Writing | 45 minutes |
+| Break                       | 30 minutes |
 
 : Schedule for 218 Course Planning Session
 

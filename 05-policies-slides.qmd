@@ -105,8 +105,9 @@ This statement should be in your syllabus.
 - Include a statement about the use of generative AI in your course - is it allowed? not?
 
 - What I do:
-    - Policy allowing me to replace any assignment grade with an oral exam covering that material
     - You can use AI for most things, but you must be able to explain your answer to me without the internet
+    - Policy allowing me to replace any assignment grade with an oral exam covering that material
+      - Plan out how you'll do this ahead of time. Will you replace the whole grade? Just the questions you ask about?
 
 ## Academic Integrity
 
