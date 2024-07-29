@@ -19,7 +19,7 @@
 | [UNL TA Orientation](https://events.unl.edu/gradstudies/2022/08/16/165120/)\ | 8-1 pm   | Nebraska Union (City Campus) | New TAs  |
 | Deadline to register: August 1st!                                            |          |                              |          |
 +------------------------------------------------------------------------------+----------+------------------------------+----------+
-| Introduction to Stat 218                                                     | 2 - 4 pm | Hardin 163                   | New TAs  |
+| [Introduction to Stat 218](01-introduction.qmd)                              | 2 - 4 pm | Hardin 163                   | New TAs  |
 +------------------------------------------------------------------------------+----------+------------------------------+----------+
 :::
 
@@ -65,6 +65,4 @@
 +------------------------------------------------+-------------+-------------------+----------+
 | Student Welcome Dinner                         | 5:00 - 8 pm | Bethany Park      | Everyone |
 +------------------------------------------------+-------------+-------------------+----------+
-
-| Department Meeting \| 2-3:30 pm \| Hardin Hall Auditorium \| Everyone \|
 :::
