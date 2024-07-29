@@ -1,24 +1,129 @@
 [
   {
-    "objectID": "schedule2.html",
-    "href": "schedule2.html",
-    "title": "New TA and Grad Student Orientation Week",
+    "objectID": "01-introduction.html",
+    "href": "01-introduction.html",
+    "title": "218 Introduction",
     "section": "",
-    "text": "Monday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nNew Graduate Student Orientation\n9-11 am\nHardin 354A\nAll new statistics graduate students\n\n\nStat 218 Introduction\n11:30 - 1:30 pm\nHardin 354A\nNew TAs\n\n\nDepartment Meeting\n2-3:30 pm\nHardin Hall Auditorium\nEveryone\n\n\n\n\n\n\n\n\n\n\n\nTuesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUNL TA Orientation\nDeadline to register: August 1st!\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Course Planning\n9-11 am\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nCanvas/WileyPlus Training\n11:30 am - 2 pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\n2-3:30 pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\n\n\n\n\n\n\n\n\n\nThursday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Syllabus\n9-11 am\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n11-12:30 am\n\n\n\n\nStat 218 Activities\n12:30 - 3pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\n\n\n\n\n\n\n\n\n\nFriday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUniversity Policies\n10am - 12:30 pm\nHardin 163\nALL TAs\n\n\nLunch (on your own)\n12:30 - 2 pm\n\n\n\n\nStat 218 Microteaching\n2 - 3:30 pm\nHardin 163\nNew TAs\n\n\nStudent Welcome Dinner\n(RSVP by August 1)\n5:30 - 8 pm\nBethany Park\nEveryone"
+    "text": "Schedule\n\nSchedule for 218 Introduction Session\n\n\nActivity\nTime\n\n\n\n\nLunch\n12-12:45\n\n\nDescribe Stat 218\n12:45 - 1:30\n\n\nCourse Philosophy\n1:30 - 2:00\n\n\n\nSlides\n\n\nAssignments\n\nRead “Data Visualization: Bringing Data to Live in an Introductory Statistics Course” (by Wednesday)\nMicroteaching Assignment Topic (Topic list)\nRead GAISE College Report (for 892 Week 1)\nNote: You only have to read the main report, though you can skim any appendices you think are interesting."
   },
   {
-    "objectID": "02-course-planning.html",
-    "href": "02-course-planning.html",
+    "objectID": "02-course-planning-slides.html#what-concepts-did-you-select",
+    "href": "02-course-planning-slides.html#what-concepts-did-you-select",
     "title": "218 Course Planning",
-    "section": "",
-    "text": "Schedule for 218 Course Planning Session\n\n\nActivity\nTime\n\n\n\n\nImportant Concepts\n9:00 - 9:20\n\n\nDiscussion of Key Concepts\n9:20 - 10:00\n\n\nBreak\n10:00 - 10:15\n\n\nData Vis Discussion/Writing\n10:15 - 11:00\n\n\nBreak\n11:00 - 11:30\n\n\n\nSlides\n\n\n\nPossible Concept List\nStat 218 Concepts"
+    "section": "What concepts did you select?",
+    "text": "What concepts did you select?"
   },
   {
-    "objectID": "02-course-planning.html#handouts",
-    "href": "02-course-planning.html#handouts",
+    "objectID": "02-course-planning-slides.html#official-topic-list",
+    "href": "02-course-planning-slides.html#official-topic-list",
     "title": "218 Course Planning",
+    "section": "Official Topic List",
+    "text": "Official Topic List\nBig Picture Goals\n[12.] Random sampling allows results of surveys and experiments to be extended to the population from which the sample was taken\n[13.] Variability is natural, predictable, and quantifiable\n[19.] How to interpret numerical summaries and graphical displays of data - both to answer questions and to check conditions (to use statistical procedures correctly)\n[29.] Believe and understand why association is not causation\n[30.] Believe and understand why random assignment in comparative experiments allows cause-and-effect conclusions to be drawn\n[34.] The concept of a sampling distribution and how it applies to making statistical inferences based on samples of data (including the idea of standard error)\n[55.] The concept of statistical significance, including significance levels and p-values\n[57.] How to interpret statistical results in context"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#official-topic-list-1",
+    "href": "02-course-planning-slides.html#official-topic-list-1",
+    "title": "218 Course Planning",
+    "section": "Official Topic List",
+    "text": "Official Topic List\nBig Picture Goals Cont’d\n[58.] How to critique news stories and journal articles that include statistical information, including identifying what’s missing in the presentation and the flaws in the studies or methods used to generate the information\n[61.] How to determine the population to which the results of statistical inference can be extended, if any\n[62.] Students should believe and understand why data beat anecdotes\n[80.] Understand how simulation may be used to determine strength of evidence\n[89.] Translating a research question/scenario into a null model"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#official-topic-list-2",
+    "href": "02-course-planning-slides.html#official-topic-list-2",
+    "title": "218 Course Planning",
+    "section": "Official Topic List",
+    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[1.] Quantitative versus categorical variables\n[5.] How to interpret histograms\n[7.] Skewed and symmetric distributions\n[8.] Measures of center (mean and median)\n[9.] Sampling strategies: at least that not everything is a SRS\n[14.] How to calculate variance and standard deviation (with caveats)\n[15.] Characteristics of the normal distribution? Depends on how your class is structured\n[23.] Distinguish between explanatory and response variables\n[25.] Use scatterplots to identify patterns and outliers\n[26.] Know what a line of best fit represents and how to use it to make predictions"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#official-topic-list-3",
+    "href": "02-course-planning-slides.html#official-topic-list-3",
+    "title": "218 Course Planning",
+    "section": "Official Topic List",
+    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[31.] Describe the sampling distribution of a statistic and define the standard error of a statistic\n[35.] How to calculate (obtain?) confidence intervals for the population proportion, \\(p\\)\n[36.] How to calculate (obtain?) confidence intervals for the population mean, \\(\\mu\\)\n[37.] Interpret the result of a confidence interval in the context of the problem\n[39.] Elementary probability rules\n[40.] Probability rules for complements (necessary only if using normal distribution)\n[42.] Addition rule (necessary only if using normal distribution)\n[47.] Describe how changing the sample size and/or the confidence level will affect the width of the confidence interval\n[48.] Given a study objective, choose appropriate null and alternative hypotheses, including determining whether the alternative should be one-sided or two-sided"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#official-topic-list-4",
+    "href": "02-course-planning-slides.html#official-topic-list-4",
+    "title": "218 Course Planning",
+    "section": "Official Topic List",
+    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[49.] Given a study and p-value, explain in context that p-value is a probability of getting a sample statistic as extreme or more extreme than what was seen in the sample given that the null hypothesis is true\n[51.] Given a study, interpret the results of a test of significance in context\n[52.] Given a study objective, significance level (\\(\\alpha\\)) and summary statistics, understand the steps involved in conducting a formal test of significance on a population mean (or a population proportion).\n[59.] How to communicate the results of a statistical analysis\n[60.] How to appropriately use statistical inference to answer research questions [63.] Understand the difference between matched-pairs and two-sample data (if time allows)\n[69.] Understand the importance of controlling for sources of extraneous variation in studies\n[72.] The importance of examining graphs in describing a data set"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#official-topic-list-5",
+    "href": "02-course-planning-slides.html#official-topic-list-5",
+    "title": "218 Course Planning",
+    "section": "Official Topic List",
+    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[76.] Describing relations in a two-way table\n[81.] Understand what a null model represents\n[82.] Assumptions necessary for inference via simulation versus assumptions necessary for inference via traditional methods\n[83.] Determining which analysis method is appropriate for a given scenario\n[87.] Understand the relationship between hypothesis testing and confidence intervals\n[88.] Understand that not all outcomes of a random experiment are equally likely\n[90.] Representing null models in both words and symbols"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#you-should-not-cover",
+    "href": "02-course-planning-slides.html#you-should-not-cover",
+    "title": "218 Course Planning",
+    "section": "You Should Not Cover",
+    "text": "You Should Not Cover\n[15.] What happens to mean and variance when the unit of measurement is changed\n[17.] Normal quantile plots\n[20.] How to calculate the correlation (by hand)\n[21.] How to calculate the estimated slope and intercept for lines of best fit (by hand)\n[45.] Bayes’ Theorem\n[68.] Understand Simpson’s paradox\n[78.] The \\(F\\) distribution\n[86.] Understand that \\(n&gt;30\\) ensures the Central Limit Theorem holds"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#what-do-you-think-students-have-the-most-trouble-with-why",
+    "href": "02-course-planning-slides.html#what-do-you-think-students-have-the-most-trouble-with-why",
+    "title": "218 Course Planning",
+    "section": "What do you think students have the most trouble with? Why?",
+    "text": "What do you think students have the most trouble with? Why?\nWhat can we do to help facilitate understanding?"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-activity",
+    "href": "02-course-planning-slides.html#writing-activity",
+    "title": "218 Course Planning",
+    "section": "Writing Activity",
+    "text": "Writing Activity\nWhat were your initial thoughts about the data vis article? Write for a few minutes about what you took away from this article."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-and-statistics",
+    "href": "02-course-planning-slides.html#writing-and-statistics",
+    "title": "218 Course Planning",
+    "section": "Writing and Statistics",
+    "text": "Writing and Statistics\nAs you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it.\nThe same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-activity-1",
+    "href": "02-course-planning-slides.html#writing-activity-1",
+    "title": "218 Course Planning",
+    "section": "Writing Activity",
+    "text": "Writing Activity\nWrite for a few minutes about what kinds of alternative assessments you think work well in Stat 218. Maybe it’s an assessment you experienced as a student?"
+  },
+  {
+    "objectID": "02-course-planning-slides.html#student-expectations",
+    "href": "02-course-planning-slides.html#student-expectations",
+    "title": "218 Course Planning",
+    "section": "Student Expectations",
+    "text": "Student Expectations\nStudents often come into Stat 218 assuming that it will be a “math” class and are sometimes angry/confused to find that it is not.\nWriting (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#writing-activity-2",
+    "href": "02-course-planning-slides.html#writing-activity-2",
+    "title": "218 Course Planning",
+    "section": "Writing Activity",
+    "text": "Writing Activity\nWrite for a few minutes about how you think the Stat 218 class can be structured to make clear to the students that statistics is not math."
+  },
+  {
+    "objectID": "02-course-planning-slides.html#low-stakes-writing",
+    "href": "02-course-planning-slides.html#low-stakes-writing",
+    "title": "218 Course Planning",
+    "section": "Low-Stakes Writing",
+    "text": "Low-Stakes Writing\nEach exercise had different goals!\n\nActivity 1: Writing to probe a subject - to get you to think about the article\nActivity 2/3: Tools to gauge understanding and guide future discussion\n\nHow can you incorporate writing into other things (assessments, activities, important concepts) we’ll discuss this week?\n\nIn Stat 892, we’ll discuss\n\nwriting/thinking problems - how to use student writing to gauge understanding\nlow, mid, and high stakes writing tasks\npeer review\nconstructing assignments\nassessing writing/understanding"
+  },
+  {
+    "objectID": "07-microteaching.html",
+    "href": "07-microteaching.html",
+    "title": "218 Microteaching",
     "section": "",
-    "text": "Possible Concept List\nStat 218 Concepts"
+    "text": "Schedule\n\n\n\nActivity\nTime\n\n\n\n\nMicroteaching\n2:00 - 3:15\n\n\nQ&A\n3:15 - 3:30\n\n\n\nAssignment for Stat 892 (due first class period):\nWrite a question to assess students’ understanding of your microteaching topic. The question should NOT emphasize calculation.\nBegin reading the GAISE recommendations."
+  },
+  {
+    "objectID": "03-assessment.html",
+    "href": "03-assessment.html",
+    "title": "218 Assessment",
+    "section": "",
+    "text": "Slides"
   },
   {
     "objectID": "01-introduction-slides.html#ta-expectations",
@@ -89,181 +194,6 @@
     "title": "Introduction to Stat 218",
     "section": "ACE Course",
     "text": "ACE Course\n\nExplanation of ACE courses\n\nACE 3\nUse mathematical, computational, statistical, logical, or other formal reasoning to solve problems, draw inferences, justify conclusions, and determine reasonableness.\n\nSupporting areas: writing, critical thinking"
-  },
-  {
-    "objectID": "07-microteaching.html",
-    "href": "07-microteaching.html",
-    "title": "218 Microteaching",
-    "section": "",
-    "text": "Schedule\n\n\n\nActivity\nTime\n\n\n\n\nMicroteaching\n2:00 - 3:15\n\n\nQ&A\n3:15 - 3:30\n\n\n\nAssignment for Stat 892 (due first class period):\nWrite a question to assess students’ understanding of your microteaching topic. The question should NOT emphasize calculation.\nBegin reading the GAISE recommendations."
-  },
-  {
-    "objectID": "04-syllabus.html",
-    "href": "04-syllabus.html",
-    "title": "218 Syllabus",
-    "section": "",
-    "text": "Schedule\n\nSchedule for Syllabus session\n\n\nActivity\nTime\n\n\n\n\nPeer Review of Syllabi\n9:00 - 10:00\n\n\nBreak\n10:00 - 10:10\n\n\nLessons Learned\n10:10 - 11:00\n\n\nBreak (lunch on your own)\n11:00 - 12:30\n\n\n\nSlides\n\n\nPeer Review of Syllabi\n\nWrite a quick note on your syllabus - what elements are you most unsure about?\nReview each person’s syllabus in your group\nDiscussion:\nHow peer review can be used in Stat 218 and other courses\nCASNR syllabus policy and group discussion\n\n\n\nLessons Learned from last year\n\nThings that went well\nThings that could be improved\nQuestions or concerns about Fall?"
-  },
-  {
-    "objectID": "03-assessment-slides.html#discussion---assessment-in-218",
-    "href": "03-assessment-slides.html#discussion---assessment-in-218",
-    "title": "218 Assessment",
-    "section": "Discussion - Assessment in 218",
-    "text": "Discussion - Assessment in 218"
-  },
-  {
-    "objectID": "03-assessment-slides.html#grading",
-    "href": "03-assessment-slides.html#grading",
-    "title": "218 Assessment",
-    "section": "Grading",
-    "text": "Grading\n\nYou don’t have to grade 100% of every assignment\nExplorations: Pick 2 important ?s to grade, everything else is completion"
-  },
-  {
-    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points",
-    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points",
-    "title": "218 Assessment",
-    "section": "What is important in each question? How many points?",
-    "text": "What is important in each question? How many points?\nBlank Question"
-  },
-  {
-    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-1",
-    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-1",
-    "title": "218 Assessment",
-    "section": "What is important in each question? How many points?",
-    "text": "What is important in each question? How many points?"
-  },
-  {
-    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-2",
-    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-2",
-    "title": "218 Assessment",
-    "section": "What is important in each question? How many points?",
-    "text": "What is important in each question? How many points?"
-  },
-  {
-    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-3",
-    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-3",
-    "title": "218 Assessment",
-    "section": "What is important in each question? How many points?",
-    "text": "What is important in each question? How many points?"
-  },
-  {
-    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-4",
-    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-4",
-    "title": "218 Assessment",
-    "section": "What is important in each question? How many points?",
-    "text": "What is important in each question? How many points?"
-  },
-  {
-    "objectID": "01-introduction.html",
-    "href": "01-introduction.html",
-    "title": "218 Introduction",
-    "section": "",
-    "text": "Schedule\n\nSchedule for 218 Introduction Session\n\n\nActivity\nTime\n\n\n\n\nLunch\n12-12:45\n\n\nDescribe Stat 218\n12:45 - 1:30\n\n\nCourse Philosophy\n1:30 - 2:00\n\n\n\nSlides\n\n\nAssignments\n\nRead “Data Visualization: Bringing Data to Live in an Introductory Statistics Course” (by Wednesday)\nMicroteaching Assignment Topic (Topic list)\nRead GAISE College Report (for 892 Week 1)\nNote: You only have to read the main report, though you can skim any appendices you think are interesting."
-  },
-  {
-    "objectID": "05-policies.html",
-    "href": "05-policies.html",
-    "title": "University Policies",
-    "section": "",
-    "text": "Slides"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#write-a-quick-note-on-your-syllabus---what-elements-are-you-most-unsure-about",
-    "href": "04-syllabus-slides.html#write-a-quick-note-on-your-syllabus---what-elements-are-you-most-unsure-about",
-    "title": "218 Syllabus",
-    "section": "Write a quick note on your syllabus - what elements are you most unsure about?",
-    "text": "Write a quick note on your syllabus - what elements are you most unsure about?"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#group-syllabus-review",
-    "href": "04-syllabus-slides.html#group-syllabus-review",
-    "title": "218 Syllabus",
-    "section": "Group Syllabus Review",
-    "text": "Group Syllabus Review"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#discussion",
-    "href": "04-syllabus-slides.html#discussion",
-    "title": "218 Syllabus",
-    "section": "Discussion:",
-    "text": "Discussion:\nHow can peer review be used in Stat 218 (and other courses)?"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#syllabus-content",
-    "href": "04-syllabus-slides.html#syllabus-content",
-    "title": "218 Syllabus",
-    "section": "Syllabus Content",
-    "text": "Syllabus Content\nFaculty Senate Syllabus Policy\nCASNR Syllabus Policy\nSyllabus Statement Language"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#requirements",
-    "href": "04-syllabus-slides.html#requirements",
-    "title": "218 Syllabus",
-    "section": "Requirements",
-    "text": "Requirements\nThe course syllabus should include the following information, not necessarily in the order shown:\n\nCourse title\nContact information\nInstructor name\nOffice location\nContact information (telephone number and/or e-mail address)\nOffice hours\nRequired materials\nCourse prerequisites\nCourse Description\nMeasurable Behavioral Objectives"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#assessment",
-    "href": "04-syllabus-slides.html#assessment",
-    "title": "218 Syllabus",
-    "section": "Assessment",
-    "text": "Assessment\nA list of papers, exams and other assessments that will contribute to the students grades, along with the exact or approximate value of those assessments either in points of percent of total grade. Repeated small assessment, such as homework or quizzes, can be considered as one line in the list of assessments. Include grading scale, translating total points or percentage earned into a letter grade."
-  },
-  {
-    "objectID": "04-syllabus-slides.html#course-outline",
-    "href": "04-syllabus-slides.html#course-outline",
-    "title": "218 Syllabus",
-    "section": "Course Outline",
-    "text": "Course Outline\nDue dates for major assignments: place, date, time of final exam.\nPolicy regarding late assignments."
-  },
-  {
-    "objectID": "04-syllabus-slides.html#course-policies",
-    "href": "04-syllabus-slides.html#course-policies",
-    "title": "218 Syllabus",
-    "section": "Course Policies",
-    "text": "Course Policies\n\nAttendance policy, if any. If attendance or participation affects grade that should be spelled out here as well in sufficient detail.\nSpecial policies for the course, if any.\nPolicy regarding academic dishonesty. This should include a full specification of penalties for first, second, etc. offenses, and provide a link to the appeal procedures for the instructor’s unit. Statistics policy\nWe’ll talk about University-wide Policies later"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#emergency-procedures",
-    "href": "04-syllabus-slides.html#emergency-procedures",
-    "title": "218 Syllabus",
-    "section": "Emergency Procedures",
-    "text": "Emergency Procedures\nConsult UNL emergency planning site for current emergency procedures: https://emergency.unl.edu/"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#ace-material",
-    "href": "04-syllabus-slides.html#ace-material",
-    "title": "218 Syllabus",
-    "section": "ACE Material",
-    "text": "ACE Material\n\nLearning outcome for which the course is certified\nThe opportunities the course will give students to acquire the knowledge or skills necessary to achieve the Learning Outcome\nGraded assignments which will be used.\n\nPlease double check current ACE requirements at https://ace.unl.edu as they do change from time to time."
-  },
-  {
-    "objectID": "04-syllabus-slides.html#things-that-went-well",
-    "href": "04-syllabus-slides.html#things-that-went-well",
-    "title": "218 Syllabus",
-    "section": "Things that went well",
-    "text": "Things that went well"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#things-that-could-be-improved",
-    "href": "04-syllabus-slides.html#things-that-could-be-improved",
-    "title": "218 Syllabus",
-    "section": "Things that could be improved",
-    "text": "Things that could be improved"
-  },
-  {
-    "objectID": "04-syllabus-slides.html#questions-or-concerns-about-fall",
-    "href": "04-syllabus-slides.html#questions-or-concerns-about-fall",
-    "title": "218 Syllabus",
-    "section": "Questions or Concerns about Fall?",
-    "text": "Questions or Concerns about Fall?"
-  },
-  {
-    "objectID": "06-activities.html",
-    "href": "06-activities.html",
-    "title": "218 Activities",
-    "section": "",
-    "text": "Schedule\n\nActivities Session Schedule\n\n\nActivity\nTime\n\n\n\n\nActivities in Stat 218\n12:30 - 1:45\n\n\nBreak\n1:45 - 2:00\n\n\nMeet with your mentor\n2:00 - 3:00\n\n\n\nSlides"
   },
   {
     "objectID": "05-policies-slides.html#class-scheduling",
@@ -441,118 +371,6 @@
     "text": "Concerns about Students\nStudent concern form\n\nThis form should be used to report non-emergency concerns about student well-being. The information you provide will be forwarded to the UNL Behavioral Intervention Team (BIT). BIT provides a proactive, supportive, and coordinated response to student behaviors that may compromise the safety and well-being of the student and/or others.\n\n\nFeel free to discuss concerns with me at any time."
   },
   {
-    "objectID": "03-assessment.html",
-    "href": "03-assessment.html",
-    "title": "218 Assessment",
-    "section": "",
-    "text": "Slides"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#what-concepts-did-you-select",
-    "href": "02-course-planning-slides.html#what-concepts-did-you-select",
-    "title": "218 Course Planning",
-    "section": "What concepts did you select?",
-    "text": "What concepts did you select?"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#official-topic-list",
-    "href": "02-course-planning-slides.html#official-topic-list",
-    "title": "218 Course Planning",
-    "section": "Official Topic List",
-    "text": "Official Topic List\nBig Picture Goals\n[12.] Random sampling allows results of surveys and experiments to be extended to the population from which the sample was taken\n[13.] Variability is natural, predictable, and quantifiable\n[19.] How to interpret numerical summaries and graphical displays of data - both to answer questions and to check conditions (to use statistical procedures correctly)\n[29.] Believe and understand why association is not causation\n[30.] Believe and understand why random assignment in comparative experiments allows cause-and-effect conclusions to be drawn\n[34.] The concept of a sampling distribution and how it applies to making statistical inferences based on samples of data (including the idea of standard error)\n[55.] The concept of statistical significance, including significance levels and p-values\n[57.] How to interpret statistical results in context"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#official-topic-list-1",
-    "href": "02-course-planning-slides.html#official-topic-list-1",
-    "title": "218 Course Planning",
-    "section": "Official Topic List",
-    "text": "Official Topic List\nBig Picture Goals Cont’d\n[58.] How to critique news stories and journal articles that include statistical information, including identifying what’s missing in the presentation and the flaws in the studies or methods used to generate the information\n[61.] How to determine the population to which the results of statistical inference can be extended, if any\n[62.] Students should believe and understand why data beat anecdotes\n[80.] Understand how simulation may be used to determine strength of evidence\n[89.] Translating a research question/scenario into a null model"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#official-topic-list-2",
-    "href": "02-course-planning-slides.html#official-topic-list-2",
-    "title": "218 Course Planning",
-    "section": "Official Topic List",
-    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[1.] Quantitative versus categorical variables\n[5.] How to interpret histograms\n[7.] Skewed and symmetric distributions\n[8.] Measures of center (mean and median)\n[9.] Sampling strategies: at least that not everything is a SRS\n[14.] How to calculate variance and standard deviation (with caveats)\n[15.] Characteristics of the normal distribution? Depends on how your class is structured\n[23.] Distinguish between explanatory and response variables\n[25.] Use scatterplots to identify patterns and outliers\n[26.] Know what a line of best fit represents and how to use it to make predictions"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#official-topic-list-3",
-    "href": "02-course-planning-slides.html#official-topic-list-3",
-    "title": "218 Course Planning",
-    "section": "Official Topic List",
-    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[31.] Describe the sampling distribution of a statistic and define the standard error of a statistic\n[35.] How to calculate (obtain?) confidence intervals for the population proportion, \\(p\\)\n[36.] How to calculate (obtain?) confidence intervals for the population mean, \\(\\mu\\)\n[37.] Interpret the result of a confidence interval in the context of the problem\n[39.] Elementary probability rules\n[40.] Probability rules for complements (necessary only if using normal distribution)\n[42.] Addition rule (necessary only if using normal distribution)\n[47.] Describe how changing the sample size and/or the confidence level will affect the width of the confidence interval\n[48.] Given a study objective, choose appropriate null and alternative hypotheses, including determining whether the alternative should be one-sided or two-sided"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#official-topic-list-4",
-    "href": "02-course-planning-slides.html#official-topic-list-4",
-    "title": "218 Course Planning",
-    "section": "Official Topic List",
-    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[49.] Given a study and p-value, explain in context that p-value is a probability of getting a sample statistic as extreme or more extreme than what was seen in the sample given that the null hypothesis is true\n[51.] Given a study, interpret the results of a test of significance in context\n[52.] Given a study objective, significance level (\\(\\alpha\\)) and summary statistics, understand the steps involved in conducting a formal test of significance on a population mean (or a population proportion).\n[59.] How to communicate the results of a statistical analysis\n[60.] How to appropriately use statistical inference to answer research questions [63.] Understand the difference between matched-pairs and two-sample data (if time allows)\n[69.] Understand the importance of controlling for sources of extraneous variation in studies\n[72.] The importance of examining graphs in describing a data set"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#official-topic-list-5",
-    "href": "02-course-planning-slides.html#official-topic-list-5",
-    "title": "218 Course Planning",
-    "section": "Official Topic List",
-    "text": "Official Topic List\nIn achieving these goals, you should cover:\n[76.] Describing relations in a two-way table\n[81.] Understand what a null model represents\n[82.] Assumptions necessary for inference via simulation versus assumptions necessary for inference via traditional methods\n[83.] Determining which analysis method is appropriate for a given scenario\n[87.] Understand the relationship between hypothesis testing and confidence intervals\n[88.] Understand that not all outcomes of a random experiment are equally likely\n[90.] Representing null models in both words and symbols"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#you-should-not-cover",
-    "href": "02-course-planning-slides.html#you-should-not-cover",
-    "title": "218 Course Planning",
-    "section": "You Should Not Cover",
-    "text": "You Should Not Cover\n[15.] What happens to mean and variance when the unit of measurement is changed\n[17.] Normal quantile plots\n[20.] How to calculate the correlation (by hand)\n[21.] How to calculate the estimated slope and intercept for lines of best fit (by hand)\n[45.] Bayes’ Theorem\n[68.] Understand Simpson’s paradox\n[78.] The \\(F\\) distribution\n[86.] Understand that \\(n&gt;30\\) ensures the Central Limit Theorem holds"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#what-do-you-think-students-have-the-most-trouble-with-why",
-    "href": "02-course-planning-slides.html#what-do-you-think-students-have-the-most-trouble-with-why",
-    "title": "218 Course Planning",
-    "section": "What do you think students have the most trouble with? Why?",
-    "text": "What do you think students have the most trouble with? Why?\nWhat can we do to help facilitate understanding?"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#writing-activity",
-    "href": "02-course-planning-slides.html#writing-activity",
-    "title": "218 Course Planning",
-    "section": "Writing Activity",
-    "text": "Writing Activity\nWhat were your initial thoughts about the data vis article? Write for a few minutes about what you took away from this article."
-  },
-  {
-    "objectID": "02-course-planning-slides.html#writing-and-statistics",
-    "href": "02-course-planning-slides.html#writing-and-statistics",
-    "title": "218 Course Planning",
-    "section": "Writing and Statistics",
-    "text": "Writing and Statistics\nAs you go through Stat 218, you will gain a deeper understanding of elementary statistics (any statistics) through teaching it.\nThe same is true for the students - they gain a deeper understanding of Stat 218 by writing about the concepts."
-  },
-  {
-    "objectID": "02-course-planning-slides.html#writing-activity-1",
-    "href": "02-course-planning-slides.html#writing-activity-1",
-    "title": "218 Course Planning",
-    "section": "Writing Activity",
-    "text": "Writing Activity\nWrite for a few minutes about what kinds of alternative assessments you think work well in Stat 218. Maybe it’s an assessment you experienced as a student?"
-  },
-  {
-    "objectID": "02-course-planning-slides.html#student-expectations",
-    "href": "02-course-planning-slides.html#student-expectations",
-    "title": "218 Course Planning",
-    "section": "Student Expectations",
-    "text": "Student Expectations\nStudents often come into Stat 218 assuming that it will be a “math” class and are sometimes angry/confused to find that it is not.\nWriting (from the very beginning) and emphasizing inference from the start of the class are two ways to make clear to the students that statistics is not math."
-  },
-  {
-    "objectID": "02-course-planning-slides.html#writing-activity-2",
-    "href": "02-course-planning-slides.html#writing-activity-2",
-    "title": "218 Course Planning",
-    "section": "Writing Activity",
-    "text": "Writing Activity\nWrite for a few minutes about how you think the Stat 218 class can be structured to make clear to the students that statistics is not math."
-  },
-  {
-    "objectID": "02-course-planning-slides.html#low-stakes-writing",
-    "href": "02-course-planning-slides.html#low-stakes-writing",
-    "title": "218 Course Planning",
-    "section": "Low-Stakes Writing",
-    "text": "Low-Stakes Writing\nEach exercise had different goals!\n\nActivity 1: Writing to probe a subject - to get you to think about the article\nActivity 2/3: Tools to gauge understanding and guide future discussion\n\nHow can you incorporate writing into other things (assessments, activities, important concepts) we’ll discuss this week?\n\nIn Stat 892, we’ll discuss\n\nwriting/thinking problems - how to use student writing to gauge understanding\nlow, mid, and high stakes writing tasks\npeer review\nconstructing assignments\nassessing writing/understanding"
-  },
-  {
     "objectID": "06-activities-slides.html#before-you-carry-out-an-activity",
     "href": "06-activities-slides.html#before-you-carry-out-an-activity",
     "title": "218 Activities",
@@ -620,6 +438,188 @@
     "href": "index.html",
     "title": "New TA and Grad Student Orientation Week",
     "section": "",
-    "text": "Schedule\n\n\n\n\n\n\nMonday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nNew Graduate Student Orientation\n9-11 am\nHardin 354A\nAll new statistics graduate students\n\n\nStat 218 Introduction\n11:30 - 1:30 pm\nHardin 354A\nNew TAs\n\n\nDepartment Meeting\n2-3:30 pm\nHardin Hall Auditorium\nEveryone\n\n\n\n\n\n\n\n\n\n\n\nTuesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUNL TA Orientation\nDeadline to register: August 1st!\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Course Planning\n9-11 am\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nCanvas/WileyPlus Training\n11:30 am - 2 pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\n2-3:30 pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\n\n\n\n\n\n\n\n\n\nThursday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Syllabus\n9-11 am\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n11-12:30 am\n\n\n\n\nStat 218 Activities\n12:30 - 3pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\n\n\n\n\n\n\n\n\n\nFriday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUniversity Policies\n10am - 12:30 pm\nHardin 163\nALL TAs\n\n\nLunch (on your own)\n12:30 - 2 pm\n\n\n\n\nStat 218 Microteaching\n2 - 3:30 pm\nHardin 163\nNew TAs\n\n\nStudent Welcome Dinner\n(RSVP by August 1)\n5:30 - 8 pm\nBethany Park\nEveryone\n\n\n\n\n\n\n\nOther Information\n\n\n\n\n\n\nTeaching and Orientation (UNL-wide)\n\n\n\n\nUNL Grad Studies Orientation (Canvas)\nUNL Grad Studies Institute for International Teaching Assistants\nThis program takes place 2 weeks before orientation week and is extremely valuable for both domestic and international students. It is required for international students (unless you have a Masters degree from an English-language university).\n\n\n\n\n\n\n\n\n\nInformation for Incoming Students\n\n\n\nOur department’s Graduate Student Association (GSA) maintains an informal handbook for new graduate students that includes information such as\n\nhow to register for classes\nhow to get UNL ID card and bus pas\nhow to connect to campus WiFi\nhousing resources\nplaces to go in Lincoln\n\nand much, much more. Check it out!"
+    "text": "Schedule\n\n\n\n\n\n\nMonday\n\n\n\n\n\n\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nInternational Grad Student Orientation\n9 - 12 pm\nLouise Pound Hall, City Campus\n\n\n\n(optional) New/Incoming International Grad Students\n\n\n\n\n\nDepartment Orientation\n1 - 3 pm\nHardin 354A\nAll new statistics graduate students\n\n\n\n\n\n\n\n\n\n\n\nTuesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUNL TA Orientation\nDeadline to register: August 1st!\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\nIntroduction to Stat 218\n2 - 4 pm\nHardin 163\nNew TAs\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Course Planning\n9-11 am\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nStat 218 Assessment\n11 - 12:30 pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n12:30 - 2 pm\n\n\n\n\nStat 218 Activities\n2:00 - 4:30 pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\n\n\n\n\n\n\n\n\n\nThursday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Syllabus\n10-12 pm\nHardin 163\nNew TAs + Stat 218 TAs\n\n\nLunch (on your own)\n12 - 1:30 pm\n\n\n\n\nUniversity Policies\n1:30 - 4:00 pm\nHardin 163\nALL TAs\n\n\n\n\n\n\n\n\n\n\n\nFriday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Microteaching\n1 - 3:30 pm\nHardin 163\nNew TAs\n\n\nDepartment Meeting\n4 - 5\nHardin Auditorium\nEveryone\n\n\nStudent Welcome Dinner\n5:00 - 8 pm\nBethany Park\nEveryone\n\n\n\n\n\n\n\nOther Information\n\n\n\n\n\n\nTeaching and Orientation (UNL-wide)\n\n\n\n\nUNL Grad Studies Orientation (Canvas)\nUNL Grad Studies Institute for International Teaching Assistants\nThis program takes place 2 weeks before orientation week and is extremely valuable for both domestic and international students. It is required for international students (unless you have a Masters degree from an English-language university).\n\n\n\n\n\n\n\n\n\nInformation for Incoming Students\n\n\n\nOur department’s Graduate Student Association (GSA) maintains an informal handbook for new graduate students that includes information such as\n\nhow to register for classes\nhow to get UNL ID card and bus pas\nhow to connect to campus WiFi\nhousing resources\nplaces to go in Lincoln\n\nand much, much more. Check it out!"
+  },
+  {
+    "objectID": "02-course-planning.html",
+    "href": "02-course-planning.html",
+    "title": "218 Course Planning",
+    "section": "",
+    "text": "Schedule for 218 Course Planning Session\n\n\nActivity\nTime\n\n\n\n\nImportant Concepts\n9:00 - 9:20\n\n\nDiscussion of Key Concepts\n9:20 - 10:00\n\n\nBreak\n10:00 - 10:15\n\n\nData Vis Discussion/Writing\n10:15 - 11:00\n\n\nBreak\n11:00 - 11:30\n\n\n\nSlides\n\n\n\nPossible Concept List\nStat 218 Concepts"
+  },
+  {
+    "objectID": "02-course-planning.html#handouts",
+    "href": "02-course-planning.html#handouts",
+    "title": "218 Course Planning",
+    "section": "",
+    "text": "Possible Concept List\nStat 218 Concepts"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#write-a-quick-note-on-your-syllabus---what-elements-are-you-most-unsure-about",
+    "href": "04-syllabus-slides.html#write-a-quick-note-on-your-syllabus---what-elements-are-you-most-unsure-about",
+    "title": "218 Syllabus",
+    "section": "Write a quick note on your syllabus - what elements are you most unsure about?",
+    "text": "Write a quick note on your syllabus - what elements are you most unsure about?"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#group-syllabus-review",
+    "href": "04-syllabus-slides.html#group-syllabus-review",
+    "title": "218 Syllabus",
+    "section": "Group Syllabus Review",
+    "text": "Group Syllabus Review"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#discussion",
+    "href": "04-syllabus-slides.html#discussion",
+    "title": "218 Syllabus",
+    "section": "Discussion:",
+    "text": "Discussion:\nHow can peer review be used in Stat 218 (and other courses)?"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#syllabus-content",
+    "href": "04-syllabus-slides.html#syllabus-content",
+    "title": "218 Syllabus",
+    "section": "Syllabus Content",
+    "text": "Syllabus Content\nFaculty Senate Syllabus Policy\nCASNR Syllabus Policy\nSyllabus Statement Language"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#requirements",
+    "href": "04-syllabus-slides.html#requirements",
+    "title": "218 Syllabus",
+    "section": "Requirements",
+    "text": "Requirements\nThe course syllabus should include the following information, not necessarily in the order shown:\n\nCourse title\nContact information\nInstructor name\nOffice location\nContact information (telephone number and/or e-mail address)\nOffice hours\nRequired materials\nCourse prerequisites\nCourse Description\nMeasurable Behavioral Objectives"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#assessment",
+    "href": "04-syllabus-slides.html#assessment",
+    "title": "218 Syllabus",
+    "section": "Assessment",
+    "text": "Assessment\nA list of papers, exams and other assessments that will contribute to the students grades, along with the exact or approximate value of those assessments either in points of percent of total grade. Repeated small assessment, such as homework or quizzes, can be considered as one line in the list of assessments. Include grading scale, translating total points or percentage earned into a letter grade."
+  },
+  {
+    "objectID": "04-syllabus-slides.html#course-outline",
+    "href": "04-syllabus-slides.html#course-outline",
+    "title": "218 Syllabus",
+    "section": "Course Outline",
+    "text": "Course Outline\nDue dates for major assignments: place, date, time of final exam.\n\nPlace of final exam is usually determined by week 10 or so in the semester\nStat 218 has unit exams - all exams are held at the same time in the evening.\nStudents in chem and stat 218 have exams at the same time. Chem wins in the Fall, Stat wins in the spring. Students with conflicts make arrangements for alternate exam times.\n\nPolicy regarding late assignments."
+  },
+  {
+    "objectID": "04-syllabus-slides.html#course-policies",
+    "href": "04-syllabus-slides.html#course-policies",
+    "title": "218 Syllabus",
+    "section": "Course Policies",
+    "text": "Course Policies\n\nAttendance policy, if any. If attendance or participation affects grade that should be spelled out here as well in sufficient detail.\nSpecial policies for the course, if any.\nPolicy regarding academic dishonesty. This should include a full specification of penalties for first, second, etc. offenses, and provide a link to the appeal procedures for the instructor’s unit. Statistics policy\nWe’ll talk about University-wide Policies later"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#emergency-procedures",
+    "href": "04-syllabus-slides.html#emergency-procedures",
+    "title": "218 Syllabus",
+    "section": "Emergency Procedures",
+    "text": "Emergency Procedures\nConsult UNL emergency planning site for current emergency procedures: https://emergency.unl.edu/"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#ace-material",
+    "href": "04-syllabus-slides.html#ace-material",
+    "title": "218 Syllabus",
+    "section": "ACE Material",
+    "text": "ACE Material\n\nLearning outcome for which the course is certified\nThe opportunities the course will give students to acquire the knowledge or skills necessary to achieve the Learning Outcome\nGraded assignments which will be used.\n\nPlease double check current ACE requirements at https://ace.unl.edu as they do change from time to time."
+  },
+  {
+    "objectID": "04-syllabus-slides.html#things-that-went-well",
+    "href": "04-syllabus-slides.html#things-that-went-well",
+    "title": "218 Syllabus",
+    "section": "Things that went well",
+    "text": "Things that went well"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#things-that-could-be-improved",
+    "href": "04-syllabus-slides.html#things-that-could-be-improved",
+    "title": "218 Syllabus",
+    "section": "Things that could be improved",
+    "text": "Things that could be improved"
+  },
+  {
+    "objectID": "04-syllabus-slides.html#questions-or-concerns-about-fall",
+    "href": "04-syllabus-slides.html#questions-or-concerns-about-fall",
+    "title": "218 Syllabus",
+    "section": "Questions or Concerns about Fall?",
+    "text": "Questions or Concerns about Fall?"
+  },
+  {
+    "objectID": "03-assessment-slides.html#discussion---assessment-in-218",
+    "href": "03-assessment-slides.html#discussion---assessment-in-218",
+    "title": "218 Assessment",
+    "section": "Discussion - Assessment in 218",
+    "text": "Discussion - Assessment in 218"
+  },
+  {
+    "objectID": "03-assessment-slides.html#grading",
+    "href": "03-assessment-slides.html#grading",
+    "title": "218 Assessment",
+    "section": "Grading",
+    "text": "Grading\n\nYou don’t have to grade 100% of every assignment\nExplorations: Pick 2 important ?s to grade, everything else is completion"
+  },
+  {
+    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points",
+    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points",
+    "title": "218 Assessment",
+    "section": "What is important in each question? How many points?",
+    "text": "What is important in each question? How many points?\nBlank Question"
+  },
+  {
+    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-1",
+    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-1",
+    "title": "218 Assessment",
+    "section": "What is important in each question? How many points?",
+    "text": "What is important in each question? How many points?"
+  },
+  {
+    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-2",
+    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-2",
+    "title": "218 Assessment",
+    "section": "What is important in each question? How many points?",
+    "text": "What is important in each question? How many points?"
+  },
+  {
+    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-3",
+    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-3",
+    "title": "218 Assessment",
+    "section": "What is important in each question? How many points?",
+    "text": "What is important in each question? How many points?"
+  },
+  {
+    "objectID": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-4",
+    "href": "03-assessment-slides.html#what-is-important-in-each-question-how-many-points-4",
+    "title": "218 Assessment",
+    "section": "What is important in each question? How many points?",
+    "text": "What is important in each question? How many points?"
+  },
+  {
+    "objectID": "05-policies.html",
+    "href": "05-policies.html",
+    "title": "University Policies",
+    "section": "",
+    "text": "Slides"
+  },
+  {
+    "objectID": "04-syllabus.html",
+    "href": "04-syllabus.html",
+    "title": "218 Syllabus",
+    "section": "",
+    "text": "Schedule\n\nSchedule for Syllabus session\n\n\nActivity\nTime\n\n\n\n\nPeer Review of Syllabi\n9:00 - 10:00\n\n\nBreak\n10:00 - 10:10\n\n\nLessons Learned\n10:10 - 11:00\n\n\nBreak (lunch on your own)\n11:00 - 12:30\n\n\n\nSlides\n\n\nPeer Review of Syllabi\n\nWrite a quick note on your syllabus - what elements are you most unsure about?\nReview each person’s syllabus in your group\nDiscussion:\nHow peer review can be used in Stat 218 and other courses\nCASNR syllabus policy and group discussion\n\n\n\nLessons Learned from last year\n\nThings that went well\nThings that could be improved\nQuestions or concerns about Fall?"
+  },
+  {
+    "objectID": "schedule2.html",
+    "href": "schedule2.html",
+    "title": "New TA and Grad Student Orientation Week",
+    "section": "",
+    "text": "Monday\n\n\n\n\n\n\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nInternational Grad Student Orientation\n9 - 12 pm\nLouise Pound Hall, City Campus\n(optional) New/Incoming International Grad Students\n\n\nDepartment Orientation\n1 - 3 pm\nHardin 354A\nAll new statistics graduate students\n\n\n\n\n\n\n\n\n\n\n\nTuesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nUNL TA Orientation\nDeadline to register: August 1st!\n8-1 pm\nNebraska Union (City Campus)\nNew TAs\n\n\nIntroduction to Stat 218\n2 - 4 pm\nHardin 163\nNew TAs\n\n\n\n\n\n\n\n\n\n\n\nWednesday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nCourse Planning\n9-11 am\nHardin 163\nAll TAs\n\n\nAssessment\n11 - 12:30 pm\nHardin 163\nAll TAs\n\n\nLunch (on your own)\n12:30 - 2 pm\n\n\n\n\nStat 218 Activities\n2:00 - 4:30 pm\nHardin 163\nAll TAs\n\n\n\n\n\n\n\n\n\n\n\nThursday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Syllabus\n10-12 pm\nHardin 163\nAll TAs\n\n\nLunch (on your own)\n12 - 1:30 pm\n\n\n\n\nUniversity Policies\n1:30 - 4:00 pm\nHardin 163\nAll TAs\n\n\n\n\n\n\n\n\n\n\n\nFriday\n\n\n\n\n\n\nEvent\nTime\nLocation\nWho?\n\n\n\n\nStat 218 Microteaching\n1 - 3:30 pm\nHardin 163\nNew TAs\n\n\nDepartment Meeting\n4 - 5\nHardin Auditorium\nEveryone\n\n\nStudent Welcome Dinner\n5:00 - 8 pm\nBethany Park\nEveryone\n\n\n\nDepartment Meeting | 2-3:30 pm | Hardin Hall Auditorium | Everyone |"
+  },
+  {
+    "objectID": "06-activities.html",
+    "href": "06-activities.html",
+    "title": "218 Activities",
+    "section": "",
+    "text": "Schedule\n\nActivities Session Schedule\n\n\nActivity\nTime\n\n\n\n\nActivities in Stat 218\n12:30 - 1:45\n\n\nBreak\n1:45 - 2:00\n\n\nMeet with your mentor\n2:00 - 3:00\n\n\n\nSlides"
   }
 ]
